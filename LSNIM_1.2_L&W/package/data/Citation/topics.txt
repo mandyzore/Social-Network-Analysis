@@ -1,0 +1,10 @@
+Topic 16: Data Mining / Association Rules
+Topic 107: Web Services, 
+Topic 131: Bayesian Networks / Belief function, 
+Topic 144: Web Mining / Information Fusion,
+Topic 145: Semantic Web / Description Logics, 
+Topic 162: Machine Learning, 
+Topic 24: Database Systems / XML Data, 
+Topic 75: Information Retrieval, 
+Topic 182: Pattern recognition / Image analysis, 
+Topic 199: Natural Language System / Statistical Machine Translation. 

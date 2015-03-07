@@ -1,0 +1,122 @@
+
+ ***this is  graph package***
+
+
+ ***this is  format package***
+
+
+ ***this is  algorithm package***
+
+
+ ***this is  util package***
+
+
+ ***this is  greedy package***
+
+
+ ***this is  model package***
+
+
+ ***this is  propagate package***
+
+C:\Users\Mandy\Desktop\graduation design\Experiment\LSNIM_1.1\package
+class CitationFormat init...
+topic- 0  node= 235
+topic- 0  edge= 451
+topic- 1  node= 1416
+topic- 1  edge= 4176
+topic- 2  node= 93
+topic- 2  edge= 112
+topic- 3  node= 111
+topic- 3  edge= 149
+topic- 4  node= 86
+topic- 4  edge= 97
+topic- 5  node= 140
+topic- 5  edge= 147
+topic- 6  node= 171
+topic- 6  edge= 255
+topic- 7  node= 146
+topic- 7  edge= 261
+topic- 8  node= 153
+topic- 8  edge= 225
+topic- 9  node= 109
+topic- 9  edge= 228
+node ptns: 2660 edge ptes: 6101
+total count: node= 2660  edge= 6101
+titileIndex: 2556
+ptopics: 2555
+检查验证: [686, 5592, 205, 260, 183, 287, 426, 407, 378, 337]
+tss: 8761
+*************************** ptes= 6101
+*************************** epid= 6101
+node_c: 2555   edge_c: 5967
+ICM init...
+LabledInfluenceMaxi.LIM init...
+old_greedy init...
+----greedy algorithm start running....
+### start selecting the  0 th seed ...
+---TJ-- 280 : 31.363 ADJ= 55 ---
+---TJ-- 311 : 2.858 ADJ= 5 ---
+---TJ-- 502 : 21.962 ADJ= 23 ---
+---TJ-- 513 : 5.704 ADJ= 6 ---
+---TJ-- 600 : 3.787 ADJ= 12 ---
+%%% A seed is added:  280 . %%% Total profit is  31.363
+ this seed selection takes  637.3289335755181  s
+### start selecting the  1 th seed ...
+---TJ-- 311 : 2.836 ADJ= 5 ---
+---TJ-- 502 : 21.835 ADJ= 23 ---
+---TJ-- 513 : 5.689 ADJ= 6 ---
+---TJ-- 600 : 3.794 ADJ= 12 ---
+%%% A seed is added:  502 . %%% Total profit is  21.835
+ this seed selection takes  613.6264680887825  s
+### start selecting the  2 th seed ...
+---TJ-- 311 : 2.845 ADJ= 5 ---
+---TJ-- 513 : 5.701 ADJ= 6 ---
+---TJ-- 600 : 3.828 ADJ= 12 ---
+%%% A seed is added:  724 . %%% Total profit is  16.158
+ this seed selection takes  590.9527448732101  s
+### start selecting the  3 th seed ...
+---TJ-- 311 : 2.843 ADJ= 5 ---
+---TJ-- 513 : 5.711 ADJ= 6 ---
+---TJ-- 600 : 3.808 ADJ= 12 ---
+%%% A seed is added:  643 . %%% Total profit is  15.204
+ this seed selection takes  582.5647344769968  s
+### start selecting the  4 th seed ...
+---TJ-- 311 : 2.838 ADJ= 5 ---
+---TJ-- 513 : 5.716 ADJ= 6 ---
+---TJ-- 600 : 3.802 ADJ= 12 ---
+%%% A seed is added:  630 . %%% Total profit is  13.308
+ this seed selection takes  623.4861585546578  s
+### start selecting the  5 th seed ...
+---TJ-- 311 : 2.852 ADJ= 5 ---
+---TJ-- 513 : 5.705 ADJ= 6 ---
+---TJ-- 600 : 3.793 ADJ= 12 ---
+%%% A seed is added:  2079 . %%% Total profit is  11.383
+ this seed selection takes  632.4468340262574  s
+### start selecting the  6 th seed ...
+---TJ-- 311 : 2.847 ADJ= 5 ---
+---TJ-- 513 : 5.703 ADJ= 6 ---
+---TJ-- 600 : 3.808 ADJ= 12 ---
+%%% A seed is added:  620 . %%% Total profit is  10.508
+ this seed selection takes  677.349349210212  s
+### start selecting the  7 th seed ...
+---TJ-- 311 : 2.844 ADJ= 5 ---
+---TJ-- 513 : 5.713 ADJ= 6 ---
+---TJ-- 600 : 3.819 ADJ= 12 ---
+%%% A seed is added:  558 . %%% Total profit is  10.472
+ this seed selection takes  668.3196065793645  s
+### start selecting the  8 th seed ...
+---TJ-- 311 : 2.844 ADJ= 5 ---
+---TJ-- 513 : 5.674 ADJ= 6 ---
+---TJ-- 600 : 3.823 ADJ= 12 ---
+%%% A seed is added:  299 . %%% Total profit is  7.619
+ this seed selection takes  646.7857348452353  s
+### start selecting the  9 th seed ...
+---TJ-- 311 : 2.83 ADJ= 5 ---
+---TJ-- 513 : 5.736 ADJ= 6 ---
+---TJ-- 600 : 3.805 ADJ= 12 ---
+%%% A seed is added:  611 . %%% Total profit is  7.608
+ this seed selection takes  687.3234981025671  s
+----greedy algorithm end running.
+[280, 502, 724, 643, 630, 2079, 620, 558, 299, 611]
+请按任意键继续. . .

@@ -1,0 +1,218 @@
+ 
+ 
+ ---------------------- [ K-1 ]------------------------------------------------------------------
+ 
+ ----------------------[ Round-1 ] --------------------------------------------
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:31.0ADJ=55---
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:21.0ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 31.0
+ this seed selection takes 0.5710933259885235 s
+ ----greedy algorithm end running.
+ S:[280]
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:32.0ADJ=55---
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:22.0ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 32.0
+ this seed selection takes 0.574319796044666 s
+ ----greedy algorithm end running.
+ S:[280]
+ 
+ ----------------------[ Round-2 ] --------------------------------------------
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:31.5ADJ=55---
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:20.5ADJ=23---
+ ---TJ--513:5.5ADJ=6---
+ ---TJ--600:3.5ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 31.5
+ this seed selection takes 1.1415523922881206 s
+ ----greedy algorithm end running.
+ S:[280]
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:31.0ADJ=55---
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:22.5ADJ=23---
+ ---TJ--513:5.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 31.0
+ this seed selection takes 1.1555240682947567 s
+ ----greedy algorithm end running.
+ S:[280]
+ 
+ 
+ ---------------------- [ K-5 ]------------------------------------------------------------------
+ 
+ ----------------------[ Round-1 ] --------------------------------------------
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:31.0ADJ=55---
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:22.0ADJ=23---
+ ---TJ--513:5.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 31.0
+ this seed selection takes 0.5821486049494498 s
+ ### start selecting the 1th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:22.0ADJ=23---
+ ---TJ--513:5.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 502. %%% Total profit is 22.0
+ this seed selection takes 0.577427369139567 s
+ ### start selecting the 2th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 724. %%% Total profit is 17.0
+ this seed selection takes 0.5740897004865788 s
+ ### start selecting the 3th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 643. %%% Total profit is 16.0
+ this seed selection takes 0.5773067614306813 s
+ ### start selecting the 4th seed ...
+ ---TJ--311:2.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 630. %%% Total profit is 13.0
+ this seed selection takes 0.5739301732687982 s
+ ----greedy algorithm end running.
+ S:[280,502,724,643,630]
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:29.0ADJ=55---
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:22.0ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 29.0
+ this seed selection takes 0.5748941795660603 s
+ ### start selecting the 1th seed ...
+ ---TJ--311:2.0ADJ=5---
+ ---TJ--502:20.0ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 502. %%% Total profit is 20.0
+ this seed selection takes 0.5763393336381313 s
+ ### start selecting the 2th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:4.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 724. %%% Total profit is 17.0
+ this seed selection takes 0.570853821318396 s
+ ### start selecting the 3th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:3.0ADJ=12---
+ %%% A seed is added: 643. %%% Total profit is 16.0
+ this seed selection takes 0.5868150968347319 s
+ ### start selecting the 4th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 630. %%% Total profit is 14.0
+ this seed selection takes 0.6693612367679016 s
+ ----greedy algorithm end running.
+ S:[280,502,724,643,630]
+ 
+ ----------------------[ Round-2 ] --------------------------------------------
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:31.5ADJ=55---
+ ---TJ--311:2.0ADJ=5---
+ ---TJ--502:22.0ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 31.5
+ this seed selection takes 1.1454584568457484 s
+ ### start selecting the 1th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:23.0ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 502. %%% Total profit is 23.0
+ this seed selection takes 1.144792976012324 s
+ ### start selecting the 2th seed ...
+ ---TJ--311:2.5ADJ=5---
+ ---TJ--513:5.5ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 724. %%% Total profit is 16.5
+ this seed selection takes 1.1617122702091685 s
+ ### start selecting the 3th seed ...
+ ---TJ--311:2.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 643. %%% Total profit is 16.0
+ this seed selection takes 1.1524481440312666 s
+ ### start selecting the 4th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:5.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 630. %%% Total profit is 13.5
+ this seed selection takes 1.1429663252156939 s
+ ----greedy algorithm end running.
+ S:[280,502,724,643,630]
+ 
+ ---------------------- [ topic-0 ] -------------------
+ ----greedy algorithm start running....
+ ### start selecting the 0th seed ...
+ ---TJ--280:31.5ADJ=55---
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--502:21.0ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 280. %%% Total profit is 31.5
+ this seed selection takes 1.1399254712788984 s
+ ### start selecting the 1th seed ...
+ ---TJ--311:2.5ADJ=5---
+ ---TJ--502:20.5ADJ=23---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:3.5ADJ=12---
+ %%% A seed is added: 502. %%% Total profit is 20.5
+ this seed selection takes 1.1795305622928147 s
+ ### start selecting the 2th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:4.5ADJ=6---
+ ---TJ--600:3.5ADJ=12---
+ %%% A seed is added: 724. %%% Total profit is 17.0
+ this seed selection takes 1.2698683023695132 s
+ ### start selecting the 3th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:4.0ADJ=12---
+ %%% A seed is added: 643. %%% Total profit is 15.5
+ this seed selection takes 1.3076702653668981 s
+ ### start selecting the 4th seed ...
+ ---TJ--311:3.0ADJ=5---
+ ---TJ--513:6.0ADJ=6---
+ ---TJ--600:3.5ADJ=12---
+ %%% A seed is added: 630. %%% Total profit is 13.0
+ this seed selection takes 1.2059158508895251 s
+ ----greedy algorithm end running.
+ S:[280,502,724,643,630]

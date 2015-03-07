@@ -1,0 +1,1416 @@
+317	"MIL Primitives for Querying a Fragmented World"	0
+84	"Deriving Production Rules for Constraint Maintainance"	76
+199	"Working Together in Harmony - An Implementation of the CORBA Object Query Service and Its Evaluation"	1
+122	"A Cost Model For Nearest Neighbor Search in High-Dimensional Data Space"	30
+252	"Extending Existing Dependency Theory to Temporal Databases"	3
+486	"Performance Analysis of Parallel Hash Join Algorithms on a Distributed Shared Memory Machine: Implementation and Evaluation on HP Exemplar SPP 1600"	0
+38	"Query Evaluation Techniques for Large Databases"	97
+1019	"Coupling Production Systems and Database Systems: A Homogeneous Approach"	4
+1192	"A Distributed Deadlock Detection and Resolution Algorithm Based on A Hybrid Wait-for Graph and Probe Generation Scheme"	0
+31	"Research Directions in Knowledge Discovery"	20
+1291	"Metadata Propagation in Large, Multi-Layer Database Systems"	1
+548	"ACTA: A Framework for Specifying and Reasoning about Transaction Structure and Behavior"	24
+1072	"A la carte: An Extensible Framework for the Tailorable Construction of Heterogeneous Object Stores"	2
+354	"Effect of System Dynamics on Coupling Architectures for Transaction Processing"	2
+585	"Efficient Incremental Garbage Collection for Client-Server Object Database Systems"	7
+1020	"System M: A Transaction Processing Testbed for Memory Resident Data"	10
+965	"Extensible/Rule Based Query Rewrite Optimization in Starburst"	41
+674	"Providing High Availability in Very Large Worklflow Management Systems"	6
+157	"Event Specification in an Active Object-Oriented Database"	32
+180	"Caching and Database Scaling in Distributed Shard-Nothing Information Retrieval Systems"	4
+467	"Principles and Realization Strategies of Multilevel Transaction Management"	35
+373	"Copy-Based versus Edit-Based Version Management Schemes for Structured Documents"	0
+321	"A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"	27
+1262	"Remote Load-Sensitive Caching for Multi-Server Database Systems"	1
+1387	"Efficient Processing of Proximity Queries for Large Databases"	1
+298	"Client-Server Caching Revisited"	14
+139	"Augmented Inherited Multi-Index Structure for Maintenaince of Materialized Path Query Views"	1
+136	"The Starburst Rule System: Language Design, Implementation, and Applications"	5
+632	"Conservative Timestamp Revisited for Materialized View Maintenance in a Data Warehouse"	9
+711	"Language Features for Interoperability of Databases with Schematic Discrepancies"	28
+606	"Integration of Heterogeneous Data Repositories by Using Object-Oriented Views"	8
+697	"Optimization of Constrained Frequent Set Queries with 2-variable Constraints"	4
+262	"On Parallel Execution of Multiple Pipelined Hash Joins"	7
+836	"SVP: A Model Capturing Sets, Lists, Streams, and Parallelism"	11
+1324	"Workflow Automation: Applications, Technology, and Research (Tutorial)"	2
+1304	"Temporal Extensions to a Uniform Behavioral Object Model"	5
+1358	"MIMSY: A System for Analyzing Time Series Data in the Stock Market Domain"	1
+1131	"SEQUOIA 2000: A Reflection of the First Three Years"	1
+1004	"A Theory of Translation From Relational Queries to Hierarchical Queries"	3
+871	"The Case for Enhanced Abstract Data Types"	12
+1295	"Evaluation of Remote Backup Algorithms for Transaction Processing Systems"	3
+315	"The MRE Wrapper Approach: Enabling Incremental View Maintenance of Data Warehouses Defined on Multi-Relation Information Sources"	0
+1136	"Storage management for persistent complex objects"	6
+1390	"Using Signature Techniques for Information Filtering in Wireless and Mobile Environments"	1
+1397	"A Glossary of Temporal Database Concepts"	75
+1386	"An Evaluation of Alternative Disk Scheduling Techniques in Support of Variable Bit Rate Continuous Media"	0
+449	"Query Optimization in the Presence of Foreign Functions"	23
+1391	"Modeling Heterogeneous Systems as an Active Object Space"	4
+1404	"The Architecture of the Dali Main-Memory Storage Manager"	6
+580	"An Axiom System for Database Transactions"	7
+1107	"Query Optimization in DB2 Parallel Edition"	1
+1311	"Experiences in DBMS Implementation Using an Object-Oriented Persistent Programming Language and a Database Toolkit"	1
+918	"Lessons from Wall Street: Case Studies in Configuration, Tuning, and Distribution (Tutorial)"	2
+1264	"An Object-Oriented Database Application for HyTime Document Storage"	3
+104	"The TV-Tree: An Index Structure for High-Dimensional Data"	34
+1303	"Parallel and Distributed Processing of Rules by Data Reduction"	1
+700	"Performance Comparison of Three Modern DBMS Architectures"	6
+1121	"Safe referential integrity and null constraint structures in relational databases"	3
+165	"Semantic Issues in Multidatabase Systems - Preface by the Special Issue Editor"	9
+1242	"Data Access Interoperability in the IBM Database Family"	0
+331	"Practical Selectivity Estimation through Adaptive Sampling"	46
+1062	"Snowball: Scalable Storage on Networks of Workstations with Balanced Load"	5
+285	"Efficient Evaluation of the Valid-Time Natural Join"	6
+1382	"Optimizing Active Database Transactions: A New Perspective"	2
+1058	"Tutorial Database Mining"	0
+620	"Transactions in the Client-Server EOS Object Store"	1
+813	"Optimizing Loops in Database Programming Languages"	7
+1179	"Flora: A Functional-Style Language for Object and relational Algebra"	1
+868	"Minipage Locking Support for Object-Oriented Page-Server DBMS"	3
+310	"The hB-Tree: A Multiattribute Indexing Method with Good Guaranteed Performance"	47
+710	"Density Biased Sampling: An Improved Method for Data Mining and Clustering"	0
+1182	"Query Languages for Relational Multidatabases"	6
+1050	"Unilateral Commit: A New Paradigm for Reliable Distributed Transaction Processing"	6
+511	"Maintaining Consistency in a Stratified Production System Program"	5
+1255	"Index Nesting - An Efficient Approach to Indexing in Object-Oriented Databases"	3
+318	"The Index Suggestion Problem for Object Database Applications"	0
+846	"Database Architecture Optimized for the New Bottleneck: Memory Access"	1
+102	"Heuristic and Randomized Optimization for the Join Ordering Problem"	3
+371	"The Performance of Three Database Storage Structures for Managing Large Objects"	9
+1278	"Implementation and Evaluation of Parallel Query Processing Algorithms and Data Partitioning Heuristics in Object-Oriented Databases"	1
+1243	"On Marrying Relations and Objects: Relation-Centric and Object-Centric Perspectives"	0
+985	"Optimizing Regular Path Expressions Using Graph Schemas"	16
+764	"Finding Generalized Projected Clusters In High Dimensional Spaces"	0
+1003	"Processing Hierarchical Queries in Heterogeneous Environment"	0
+395	"An Overview of Query Optimization in Relational Systems"	2
+939	"Mining Optimized Support Rules for Numeric Attributes"	0
+345	"The TSIMMIS Project: Integration of Heterogeneous Information Sources"	39
+99	"Temporal and Real-Time Databases: A Survey"	13
+351	"Data Mining and Database Systems: Where is the Intersection?"	4
+681	"Parallel Database Systems: The Future of Database Processing or a Passing Fad?"	74
+228	"Indexing OODB Instances based on Access Proximity"	1
+858	"Data Model and Query Evaluation in Global Information Systems"	21
+436	"Concurrent File Reorganization for Record Clustering: A Performance Study"	7
+848	"Structured Workflow Management with Lotus Notes Release 4"	12
+1271	"pCube: Update-Efficient Online Aggregation with Progressive Feedback and Error Bounds"	1
+1174	"Performance Analysis of a Dual Striping Strategy for Replicated Disk Arrays"	1
+341	"An Object-Oriented DBMS War Story: Developing a Genome Mapping Database in C++"	9
+519	"A Survey of Parallel Execution Strategies for Transitive Closure and Logic Programs"	61
+882	"Architecture of an Open Object-Oriented Database Management System"	42
+417	"Measuring the Complexity of Join Enumeration in Query Optimization"	34
+855	"Towards an Effective Calculus for Object Query Languages"	10
+594	"Recent Work on Distributed Commit Protocolls, and Recoverable Messaging and Queuing"	4
+233	"Resource Scheduling in Enhanced Pay-Per-View Continuous Media Databases"	2
+1109	"Run-time Detection of Non-Terminating Active Rule Systems"	7
+24	"Supporting Data Mining of Large Databases by Visual Feedback Queries"	6
+466	"Semantics-Based Multilevel Transaction Management in Federated Systems"	5
+883	"From Semistructured Data to XML: Migrating the Lore Data Model and Query Language"	6
+646	"High Speed On-line Backup When Using Logical Log Operations"	0
+155	"Review - Querying Multiple Features of Groups in Relational Databases"	0
+1293	"Performance Analysis of Dynamic Finite Versioning for Concurrency Transaction and Query Processing"	2
+469	"Approximate Queries and Representations for Large Data Sequences"	3
+380	"Dealing with Slow-Evolving Fact: A Case Study on Inventory Data Warehousing"	0
+921	"Deriving Incremental Production Rules for Deductive Data"	8
+101	"Complex Aggregation at Multiple Granularities"	7
+536	"Scaling Heterogeneous Databases and the Design of Disco"	25
+13	"WVTDB - A Semantic Content-Based Video Database System on the World Wide Web"	3
+16	"IBM's Relational DBMS Products: Features and Technologies"	11
+1213	"B-tree Page Size When Caching is Considered"	8
+229	"H-trees: A Dynamic Associative Search Index for OODB"	13
+571	"Relative Prefix Sums: An Efficient Approach for Querying Dynamic OLAP Data Cubes"	6
+936	"Influence Sets Based on Reverse Nearest Neighbor Queries"	0
+313	"On the Effectiveness of Optimization Search Strategies for Parallel Execution Spaces"	18
+1039	"Batch Query Processing in Shared-Nothing Multiprocessors"	0
+524	"Constraint-Based Query Evaluation in Deductive Databases"	1
+913	"Review - Ripple Joins for Online Aggregation"	0
+1368	"Context-Specific Synchronization for Atomic Data Types"	2
+951	"The Design and Implementation of a Parallel Join Algorithm for Nested Relations on Shared-Memory Multiprocessors"	3
+864	"Tolerating Bounded Inconsistency for Increasing Concurrency in Database Systems"	5
+653	"Towards a Richer Web Object Model"	12
+1339	"Scalable Processing of Read-Only Transactions in Broadcast Push"	1
+886	"On Indexing Line Segments"	4
+1216	"Review - Of Objects and Databases: A Decade of Turmoil"	0
+249	"DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases"	32
+350	"Mediators in the Architecture of Future Information Systems"	658
+385	"An Efficient Algorithm for Mining Association Rules in Large Databases"	38
+1396	"A Syntactic Stratification Condition Using Constraints"	1
+1034	"Research Issues in Active Database Systems: Report from the Closing Panel at RIDE-ADS '94"	7
+1257	"Aggregation and Relevance in Deductive Databases"	7
+902	"Research Issues in Clinical Data Warehousing"	1
+426	"Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing"	3
+518	"Toward network data independence"	33
+1118	"Grow and Post Index Trees: Roles, Techniques and Future Potential"	6
+384	"Quantifiable Data Mining Using Ratio Rules"	0
+154	"The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles"	178
+694	"Data Integration in the Large: The Challenge of Reuse"	1
+230	"Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins"	19
+445	"Data Access for the Masses through OLE DB"	19
+43	"Temporal Association Algebra: A Mathematical Foundation for Processing Object-Oriented Temporal Databases"	1
+128	"Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations"	4
+555	"Efficient Access Methods in Deductive and Object-Oriented Databases"	8
+739	"Federated Databases and Systems: Part II - A Tutorial on Their Resource Consolidation"	1
+1379	"A Novel Index Supporting High Volume Data Warehouse Insertion"	1
+219	"Approximate Query Processing Using Wavelets"	0
+955	"Invited Project Review: Industrial-strength parallel query optimization: issues and lessons"	4
+164	"Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach"	8
+1140	"Research and Development Issues for Large-Scale Multimedia Information Systems"	2
+1246	"Type Consistency of Queries in an Object-Oriented Database System"	2
+1082	"Playout Management - An Integrated Service of a Multimedia Database Management System"	2
+1326	"Alternatives in Complex Object Representation: A Performance Perspective"	2
+948	"Schema Mapping as Query Discovery"	0
+26	"LH*RS: A High-Availability Scalable Distributed Data Structure using Reed Solomon Codes"	0
+1384	"Join Processing and Optimization in Temporal Relational Databases"	3
+1300	"Review - Semantic Compression and Pattern Extraction with Fascicles"	0
+1059	"An Access Structure for Generalized Transitive Closure Queries"	4
+667	"Alternative Correctness Criteria for Concurrent Execution of Transactions in Multilevel Secure Databases"	1
+1369	"Using Partial Information to Update Materialized Views"	4
+52	"Set-Oriented Production Rules in Relational Database Systems"	67
+475	"Centralized versus Distributed Index Schemes in OODBMS - A Performance Analysis"	0
+1069	"Garbage Collection in Object-Oriented Databases Using Transactional Cyclic Reference Counting"	0
+869	"Parallel Query Processing in Shared Disk Database Systems"	2
+226	"An Execution Model for Distributed Database Transactions and Its Implementation in VPL"	4
+564	"Tradeoffs in Processing Complex Join Queries via Hashing in Multiprocessor Database Machines"	35
+1147	"Meta-Data Support for Data Transformations Using Microsoft Repository"	0
+982	"Integrating Constraint Management and Concurrency Control in Distributed Databases"	0
+712	"GraphLog: a Visual Formalism for Real Life Recursion"	29
+616	"On B-Tree Indices for Skewed Distributions"	11
+363	"Outerjoin Simplification and Reordering for Query Optimization"	4
+496	"Review - Query Evaluation Techniques for Large Databases"	0
+898	"Adaptable Pointer Swizzling Strategies in Object Bases"	7
+450	"Using Tickets to Enforce the Serializability of Multidatabase Transactions"	11
+396	"Cost-Based Optimization for Magic: Algebra and Implementation"	13
+617	"On the Ubiquity of Information Services and the Absence of Guaranteed Service Quality"	0
+1231	"Visual Feedback in Querying Large Databases"	14
+1143	"Constraint-Based Rule Mining in Large, Dense Databases"	1
+103	"A Polynomial Time Algorithm for Optimizing Join Queries"	7
+1245	"Developing Tightly-Coupled Data Mining Applications on a Relational Database System"	7
+1102	"Distributed RAID - A New Multiple Copy Algorithm"	4
+320	"STING: A Statistical Information Grid Approach to Spatial Data Mining"	9
+15	"Hierarchical Prefix Cubes for Range-Sum Queries"	4
+1389	"Database Research: Lead, Follow, or Get Out of the Way? - Panel Abstract"	1
+1406	"Less Optimism About Optimistic Concurrency Control"	3
+453	"Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals"	23
+239	"Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates"	14
+602	"Bulk-Loading Techniques for Object Databases and an Application to Relational Data"	1
+106	"To Form a More Perfect Union (Intersection, Difference)"	0
+1328	"Object Storage Management Architectures"	2
+322	"Resource Scheduling for Composite Multimedia Objects"	0
+328	"On Serializability of Multidatabase Transactions Through Forced Local Conflicts"	25
+195	"Balancing Push and Pull for Data Broadcast"	8
+866	"How to Extend a Conventional Optimizer to Handle One- and Two-Sided Outerjoin"	6
+1032	"Index Concurrency Control in Firm Real-Time Database Systems"	1
+1315	"A Performance Analysis of Alternative Multi-Attribute Declustering Strategies"	9
+679	"The LHAM Log-Structured History Data Access Method"	0
+1113	"Index Structures for Selective Dissemination of Information Under the Boolean Model"	8
+724	"Building an Integrated Active OODBMS: Requirements, Architecture, and Design Decisions"	8
+428	"Locking without Blocking: Making Lock Based Concurrent Data Structure Algorithms Nonblocking"	0
+442	"A Theory of Global Concurrency Control in Multidatabase Systems"	4
+1290	"First-Class Views: A Key to User-Centered Computing"	12
+1183	"From VLDB to VMLDB (Very MANY Large Data Bases): Dealing with Large-Scale Semantic Heterogenity"	2
+423	"Efficient and Flexible Methods for Transient Versioning of Records to Avoid Locking by Read-Only Transactions"	20
+1088	"Secure Bufering in Firm Real-Time Database Systems"	0
+303	"Extensions to Starburst: Objects, Types, Functions, and Rules"	30
+803	"XML: Current Developments and Future Challenges for the Database Community"	0
+334	"Selectively Materializing Data in Mediators by Analyzing Source Structure, Query Distribution and Maintenance Cost"	0
+302	"Generating Dynamic Content at Database-Backed Web Servers: cgi-bin vs. mod_perl"	12
+1025	"Incremental Updates of Inverted Lists for Text Document Retrieval"	7
+243	"Access Support in Object Bases"	40
+1266	"CCAM: A Connectivity-Clustered Access Method for Aggregate Queries on Transportation Networks: A Summary of Results"	1
+167	"The Active MultiSync Controller of the Cubetree Storage Organization"	0
+1276	"High-Availability LH* Schemes with Mirroring"	1
+1028	"Using the Holy Brick Tree for Spatial Data in General Purpose DBMSs"	2
+60	"Execution Reordering for Tertiary Memory Access"	1
+682	"Active Data/Knowledge Bases Research At the University of Florida"	2
+532	"Design of Active Rule Applications: Issues and Approaches"	3
+608	"Filter Trees for Managing Spatial Data over a Range of Size Granularities"	4
+912	"Independent Quantization: An Index Compression Technique for High-Dimensional Data Spaces"	1
+307	"Combining Theory and Practice in Integrity Control: A Declarative Approach to the Specification of a Transaction Modification Subsystem"	6
+415	"The Design and Implementation of the Ariel Active Database Rule System"	3
+865	"Review - Integrating Mining with Relational Database Systems: Alternatives and Implications"	0
+281	"Nested Queries in Object Bases"	9
+745	"The hBP-tree: A Modified hB-tree Supporting Concurrency, Recovery and Node Consolidation"	8
+658	"Scheduling and Data Replication to Improve Tape Jukebox Performance"	0
+359	"Query Decomposition and View Maintenance for Query Languages for Unstructured Data"	10
+680	"A Multi-Level Transaction Approach to Federated DBMS Transaction Management"	7
+367	"Integration of Spatial Join Algorithms for Processing Multiple Inputs"	5
+1129	"High Performance Support for OO Traversals in Monet"	2
+169	"Client-Based Logging for High Performance Distributed Architectures"	2
+720	"Using Object-Oriented Principles to Optimize Update Propagation to Materialized Views"	3
+1248	"Evolution of Data Modeling for Databases"	4
+1165	"Predictions and Challenges for Database Systems in the Year 2000"	4
+1294	"First Order Normal Form for Relational Databases and Multidatabases"	8
+1385	"A Methodology for Query Reformulation in CIS Using Semantic Knowledge"	5
+614	"Local Disk Caching for Client-Server Database Systems"	10
+257	"Combining Join and Semi-Join Operations for Distributed Query Processing"	4
+1350	"K: A High-Level Knowledge Base Programming Language for Advanced Database Applications"	7
+86	"Adapting Relational Optimization Technology to Deductive and Object-Oriented Declarative Database Languages"	3
+1042	"Dynamic Classification Ontologies for Discovery in Cooperative Federated Databases"	3
+1161	"Tuning of Striping Units in Disk-Array-Based File Systems"	4
+366	"An Asynchronous Avoidance-Based Cache Consistency Algorithm for Client Caching DBMSs"	1
+1362	"A Framework for Schema Updates In An Object-Oriented Database System"	9
+1162	"OLAP Mining: Integration of OLAP with Data Mining"	4
+118	"Finding heuristics for processing selection queries in relational database systems"	1
+994	"Open Issues in Parallel Query Optimization"	17
+1104	"SQLJ-Part 1: SQL Routines Using the Java Programming Language"	0
+1376	"Specification and verification of temporal relationships in transaction modelling"	3
+251	"Chained Declustering: A New Availability Strategy for Multiprocessor Database Machines"	17
+478	"Towards a Unified Theory of Concurrency Control and Recovery"	12
+424	"Database System Issues in Nomadic Computing"	15
+1046	"Suppressing Marginal Cells to Protect Sensitive Information in a Two-Dimensional Statistical Table"	7
+98	"Parallel Database Systems: The Future of High Performance Database Systems"	77
+708	"Principles of Optimally Placing Data in Tertiary Storage Libraries"	5
+811	"Representing Processes in the Extended Entity-Relationship Model"	7
+227	"Interoperability of Multiple Autonomous Databases"	44
+1355	"Dynamic Real-Time Optimistic Concurrency Control"	22
+780	"ParSets for Parallelizing OODBMS Traversals: Implementation and Performance"	3
+372	"An Efficient Database Storage Structure for Large Dynamic Objects"	7
+744	"Parallel Database Systems: Open Problems and New Issues"	20
+1408	"An Overview of Parallel Strategies for Transitive Closure on Algebraic Machines"	1
+1158	"Tuning Time Series Queries in Finance: Case Studies and Recommendations"	0
+440	"Data Warehousing and OLAP for Decision Support (Tutorial)"	4
+1026	"Synthetic Workload Performance Analysis of Incremental Updates"	3
+1033	"Materialized View Maintenance and Integrity Constraint Checking: Trading Space for Time"	21
+787	"Managing Temporal Financial Data in an Extensible Database"	9
+191	"Evaluating Functional Joins Along Nested Reference Sets in Object-Relational and Object-Oriented Databases"	2
+236	"An Evaluation of Non-Equijoin Algorithms"	23
+427	"Parallelism in Relational Data Base Systems: Architectural Issues and Design Approaches"	35
+691	"Post-crash Log Processing for Fuzzy Checkpointing Main Memory Databases"	1
+1139	"Revisiting Commit Processing in Distributed Database Systems"	0
+1115	"Partitioned Data Objects in Distributed Databases"	4
+401	"The Building Blocks for Specifying Communication Behavior of Complex Objects: An Activity-Driven Approach"	2
+804	"Database Reorganization in Parallel Disk Arrays with I/O Service Stealing"	0
+847	"Integrating Light-Weight Workflow Management Systems within Existing Business Environments"	2
+759	"A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications"	11
+325	"ASSET: A System for Supporting Extended Transactions"	13
+707	"Data Access Scheduling in Firm Real-Time Database Systems"	69
+715	"The Microsoft Database Research Group"	4
+45	"Mining Optimized Association Rules with Categorical and Numeric Attributes"	2
+593	"A Transaction Model for Active Distributed Object Systems"	19
+441	"On Incremental Cache Coherency Schemes in Mobile Computing Environments"	0
+1330	"Information Mediation in Cyberspace: Scalable Methods for Declarative Information Networks"	1
+559	"Integrity Constraints in the Information Source Tracking Method"	2
+370	"Optimization of Queries with User-defined Predicates"	19
+1320	"Selection Predicate Indexing for Active Databases Using Interval Skip Lists"	2
+1176	"Implementation of Magic-sets in a Relational Database System"	10
+206	"Using SQL to Build New Aggregates and Extenders for Object- Relational Systems"	0
+510	"On Maintaining Priorities in a Production Rule System"	17
+980	"Constrained Shared Locks for Increased Concurrency in Databases"	1
+779	"Parallelising OODBMS Traversals: A Performance Evaluation"	2
+550	"Representing Extended Entity-Relationship Structures in Relational Databases: A Modular Approach"	20
+1263	"The Performance of Database Replication with Group Multicast"	1
+905	"LH*LH: A scalable High Performance Data Structure for Switched Multicomputers"	1
+714	"Commitment Ordering Based Distributed Concurrency Control for Bridging Single and Multi Version Resources"	1
+338	"Optimizing Large Join Queries in Mediation Systems"	3
+299	"Random Sampling for Histogram Construction: How much is enough?"	13
+1077	"Query Optimization in Object Bases: Exploiting Relational Techniques"	6
+1198	"Adaptive Load Balancing in Disk Arrays"	3
+728	"A Survey of DBMS Research Issues in Supporting Very Large Tables"	5
+398	"Query Processing in DEC Rdb: Major Issues and Future Challenges"	5
+408	"FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets"	21
+754	"A Framework for Statistical Data Mining with Summary Tables"	0
+53	"Universality of Serial Histograms"	19
+97	"A Data Model for Supporting On-Line Analytical Processing"	14
+131	"Dynamic Load Balancing in Hierarchical Parallel Database Systems"	4
+455	"Database Systems: Achievements and Opportunities - The 'Lagunita' Report of the NSF Invitational Workshop on the Future of Database System Research held in Palo Alto, California, February 22-23, 1990"	14
+719	"RP*: A Family of Order Preserving Scalable Distributed Data Structures"	6
+1085	"Data In Your Face': Push Technology in Perspective"	2
+70	"MOCHA: A Self-Extensible Database Middleware System for Distributed Data Sources"	2
+1137	"Efficient Dynamic Programming Algorithms for Ordering Expensive Joins and Selections"	1
+809	"Fast Algorithms for the Unit Cost Editing Distance Between Trees"	3
+815	"Adaptive Parallel Query Execution in DBS3"	2
+783	"The TP-Index: A Dynamic and Efficient Indexing Mechanism for Temporal Databases"	10
+798	"On Effective Multi-Dimensional Indexing for Strings"	0
+1015	"An Analysis Technique for Transitive Closure Algorithms: A Statistical Approach"	2
+841	"Signature-Based Text Retrieval Methods: A Survey"	12
+1317	"Alternative Approaches to Distribute An E-Commerce Document Management System"	0
+259	"Key Range Locking Strategies for Improved Concurrency"	8
+32	"The Starburst Active Database Rule System"	3
+1156	"A Framework for Join Pattern Indexing in Intelligent Database Systems"	0
+458	"A Survey and Critique of Advanced Transaction Models"	6
+150	"Fast Algorithms for Universal Quantification in Large Databases"	2
+1383	"Controlling FD and MVD Inferences in Multilevel Relational Database Systems"	3
+942	"Review - Towards Guaranteed Quality and Dependability of Information Services"	0
+1310	"Bit-Sequences: An Adaptive Cache Invalidation Method in Mobile Client/Server Environments"	1
+433	"Formal Query Languages for Secure Relational Databases"	3
+404	"Using Reconfiguration for Efficient Management of Replicated Data"	0
+413	"Implementation of the CORAL Deductive Database System"	8
+806	"Exotica: A Research Perspective ob Workflow Management Systems"	9
+6	"Meaningful Change Detection in Structured Data"	2
+687	"Query Optimization and Execution Plan Generation in Object-Oriented Data Management Systems"	5
+897	"On Global Query Optimization in Multidatabase Systems"	3
+266	"A Query Language and Optimization Techniques for Unstructured Data"	70
+587	"Integrating Snapshot Isolation into Transactional Federation"	0
+669	"The Impact of Global Clustering on Spatial Database Systems"	3
+1238	"Kaleidoscope: A Cooperative Menu-Guided Query Interface (SQL Version)"	1
+784	"Strict Histories in Object-Based Database Systems"	4
+163	"Performance Analysis of a Load Balancing Hash-Join Algorithm for a Shared Memory Multiprocessor"	8
+1195	"Increasing the Expressiveness of Analytical Performance Models for Replicated Databases"	0
+1064	"Concurrency Control Using Locking with Deferred Blocking"	3
+837	"Hierarchical, Adaptive Cache Consistency in a Page Server OODBMS"	2
+605	"The Fittest Survives: An Adaptive Approach to Query Optimization"	1
+253	"Unifying Temporal Data Models via a Conceptual Model"	12
+717	"Review - XTRACT: A System for Extracting Document Type Descriptors from XML Documents"	0
+552	"The Distributed Interoperable Object Model and Its Application to Large-scale Interoperable Database Systems"	3
+922	"Supporting Statistical Operations in Extensible Databases: A Case Study"	1
+381	"Data Partitioning and Load Balancing in Parallel Disk Systems"	6
+473	"Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data"	1
+1332	"Exploiting Atomic Broadcast in Replicated Databases (Extended Abstract)"	3
+704	"Interaction of Query Evaluation and Buffer Management for Information Retrieval"	0
+250	"Memory Management for Scalable Web Data Servers"	4
+789	"On-Line Warehouse View Maintenance"	10
+291	"Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability"	1
+1251	"SEQUOIA 2000 Metadata Schema for Satellite Images"	4
+872	"Join Queries with External Text Sources: Execution and Optimization Techniques"	8
+535	"B-Trees with Inserts and Deletes: Why Free-at-Empty Is Better Than Merge-at-Half"	5
+161	"Exploratory Mining and Pruning Optimizations of Constrained Association Rules"	16
+956	"Encapsulation of Parallelism and Architecture-Independence in Extensible Database Query Execution"	5
+637	"Multiview: A Methodology for Supporting Multiple Views in Object-Oriented Databases"	25
+732	"Snakes and Sandwiches: Optimal Clustering Strategies for a Data Warehouse"	1
+561	"Towards On-Line Analytical Mining in Large Databases"	3
+1381	"Coordination of Data and Knowledge Base Systems under Distributed Environment"	4
+1208	"WALRUS: A Similarity Retrieval Algorithm for Image Databases"	2
+1194	"Formal Aspects of Concurrency Control in Long-Duration Transaction Systems Using the NT/PV Model"	6
+929	"Research Problems in Data Warehousing"	39
+296	"Concurrency and Recovery for Index Trees"	2
+247	"An Alternative Storage Organization for ROLAP Aggregate Views Based on Cubetrees"	5
+722	"Object Queries over Relational Databases: Language, Implementation, and Applications"	3
+1281	"Server Ranking for Distributed Text Retrieval Systems on the Internet"	2
+889	"Transaction Processing Monitors"	4
+1410	"Efficient Complete Local Tests for Conjunctive Query Constraints with Negation"	0
+465	"Generalized Data Stream Indexing and Temporal Query Processing"	3
+623	"Automatic Deployment of Application-Specific Metadata and Code in MOCHA"	1
+152	"View Maintenance Issues for the Chronicle Data Model"	15
+595	"MedMaker: A Mediation System Based on Declarative Specifications"	17
+860	"A Parallel Algorithm for Record Clustering"	2
+400	"SIFT - a Tool for Wide-Area Information Dissemination"	14
+1223	"Experiences with Building a Federated Transaction Manager based on CORBA OTS"	2
+540	"Online Dynamic Reordering for Interactive Data Processing"	2
+1092	"A Hybrid Index Technique for Power Efficient Data Broadcast"	32
+151	"DynaMat: A Dynamic View Management System for Data Warehouses"	5
+1215	"Performance Comparison of Thrashing Control Policies for Concurrent Mergesorts with Parallel Prefetching"	2
+348	"A Performance Study of Transitive Closure Algorithms"	2
+1196	"Independent Recovery in Large-Scale Distributed Systems"	1
+678	"The Integration of Rule Systems and Database Systems"	20
+294	"Synchronization and Recovery in a Client-Server Storage System"	1
+1053	"Dynamic Generation and Refinement of Concept Hierarchies for Knowledge Discovery in Databases"	5
+894	"ER-R: An Enhanced ER Model with Situation-Action Rules to Capture Application Semantics"	2
+1090	"A Query Translation Scheme for Rapid Implementation of Wrappers"	22
+1335	"Review - WALRUS: A Similarity Retrieval Algorithm for Image Databases"	0
+216	"Seeking the Truth About ad hoc Join Costs"	9
+900	"Prototyping DBS3, a Shared-Memory Parallel Database System"	8
+59	"Efficient and Effective Clustering Methods for Spatial Data Mining"	55
+1359	"Load Control in Scalable Distributed File Structures"	1
+410	"Object-Oriented Databases: Definition and Research Directions"	23
+810	"Parallel Sorting on a Shared-Nothing Architecture using Probabilistic Splitting"	23
+771	"Making Views Self-Maintainable for Data Warehousing"	21
+1399	"Review - Data Mining: An Overview from a Database Perspective"	0
+851	"The Semantics of Relations in 2D Space Using Representative Points: Spatial Indexes"	2
+240	"Asynchronous Version Advancement in a Distributed Three-Version Database"	0
+800	"Efficient Retrieval of Similar Time Sequences Under Time Warping"	2
+927	"Index Configuration in Object-Oriented Databases"	5
+752	"Algebraic Support for Complex Objects with Arrays, Identity, and Inheritance"	36
+80	"Generalized Search Trees for Database Systems"	28
+689	"Distributed Transitive Closure Computations: The Disconnection Set Approach"	12
+178	"Composite Event Specification in Active Databases: Model  Implementation"	30
+628	"A Performance Evaluation of Multi-Level Transaction Management"	4
+1351	"Replicated Indexes for Distributed Data"	2
+751	"Approximate Analysis of Reader and Writer Access to a Shared Resource"	2
+657	"Control of an Extensible Query Optimizer: A Planning-Based Approach"	13
+1319	"NoDoSE - A Tool for Semi-Automatically Extracting Semi-Structured Data from Text Documents"	11
+1132	"Recovery Concepts for Data Sharing Systems"	2
+1089	"Space Optimization in the Bottom-Up Evaluation of Logic Programs"	1
+42	"Evaluation of Main Memory Join Algorithms for Joins with Set Comparison Join Predicates"	3
+235	"On Sort-Merge Algorithm for Band Joins"	0
+544	"Optimal Design of Multiple Hash Tables for Concurrency Control"	0
+50	"Object Exchange Across Heterogeneous Information Sources"	77
+392	"An Interval Classifier for Database Mining Applications"	40
+1214	"Problems Underlying the Use of Referential Integrity in Relational Database Management Systems"	4
+990	"OdeFS: A File System Interface to an Object-Oriented Database"	4
+684	"The DASDBS Project: Objectives, Experiences, and Future Prospects"	29
+7	"Change Detection in Hierarchically Structured Information"	8
+642	"Managing Rule Conflicts in an Active Database"	3
+358	"An Effective Algorithm for Parallelizing Sort Merge in the Presence of Data Skew"	13
+1190	"Transaction Scheduling in Multiclass Real-Time Database Systems"	5
+29	"Online Processing Redux"	2
+1151	"The Case for Controlled Inconsistency in Replicated Data"	26
+603	"OODB Bulk Loading Revisited: The Partitioned-List Approach"	3
+231	"Optimization of Parallel Query Execution Plans in XPRS"	24
+58	"An Effective Hash Based Algorithm for Mining Association Rules"	44
+376	"Left-Deep vs. Bushy Trees: An Analysis of Strategy Spaces and its Implications for Query Optimization"	30
+1402	"Meta Variables and Inheritance in an Object-Oriented Data Model"	1
+1232	"Using Visualization to Support Data Mining of Large Existing Databases"	12
+531	"Compile-Time and Runtime Analysis of Active Behaviors"	4
+462	"Selectivity and Cost Estimation for Joins Based on Random Sampling"	9
+1253	"Transaction Processing in Multilevel Secure Databases with Kernelized Architectures: Challenges and Solutions"	0
+997	"Bottom-Up Computation of Sparse and Iceberg CUBEs"	6
+483	"Data Mining: An Overview from a Database Perspective"	17
+1259	"Database Technology for Decision Support Systems"	11
+701	"Complex Transitive Closure Queries on a Fragmented Graph"	4
+920	"Declustering Spatial Databases on a Multi-Computer Architecture"	2
+278	"Scheduling and Processor Allocation for Parallel Execution of Multi-Join Queries"	17
+176	"Boolean Query Mapping Across Heterogeneous Information Sources"	9
+993	"A Disk-Based Storage Architecture for Movie on Demand Servers"	2
+938	"Performance Characteristics of Protocols With Ordered Shared Locks"	5
+217	"Modeling Skewed Distribution Using Multifractals and the `80-20' Law"	2
+604	"Outer Joins and Filters for Instantiating Objects from Relational Databases Through Views"	7
+64	"An Incremental Access Method for ViewCache: Concept, Algorithms, and Cost Analysis"	31
+688	"Execution Plan Generation for an Object-Oriented Dat Model"	4
+1375	"Independent Updates and Incremental Agreement in Replicated Databases"	2
+879	"Logical and Physical Versioning in Main Memory Databases"	1
+1327	"PEDCAD: A Framework for Performance Evaluation of Object Database Applications"	1
+1279	"Optimizing Storage of Objects on Mass Storage Systems with Robotic Devies"	4
+1233	"Parallel GRACE Hash Join on Shared-Everything Multiprocessor: Implementation and Performance Evaluation on Symmetry S81"	1
+120	"The Hybrid Tree: An Index Structure for High Dimensional Feature Spaces"	3
+1043	"Storage Efficient Replicated Databases"	3
+1395	"Structural Totality and Constraint Stratification"	1
+1083	"Pushing Semantics Inside Recursion: A General Framework for Semantic Optimization of Recursive Queries"	2
+1308	"Review - Mining Association Rules between Sets of Items in Large Databases"	0
+1185	"Database Systems for Efficient Access to Tertiary Memory"	3
+940	"Database Systems - Breaking Out of the Box"	4
+775	"A Compression Technique to Materialize Transitive Closure"	10
+1035	"Optimal Block Size for Set-Valued Attributes"	1
+1415	"Optimizing Equijoin Queries In Distributed Databases Where Relations Are Hash Partitioned"	7
+840	"Review - Evaluating Functional Joins Along Nested Reference Sets in Object-Relational and Object-Oriented Databases"	0
+1373	"Functional Query Optimization over Object-Oriented Views for Data Integration"	2
+312	"Estimating the Selectivity of Spatial Queries Using the `Correlation' Fractal Dimension"	16
+757	"Parallelism in Relational Database Management Systems"	41
+1403	"From Centralized Workflow Specification to Distributed Workflow Execution"	2
+149	"Two Techniques for On-Line Index Modification in Shared Nothing Parallel Databases"	4
+950	"Context-Based Synchronisation: An Approach beyond Semantics for Concurrency Control"	1
+365	"XTRACT: A System for Extracting Document Type Descriptors from XML Documents"	2
+264	"A Study of Three Alternative Workstation-Server Architectures for Object Oriented Database Systems"	46
+17	"Single Table Access Using Multiple Indexes: Optimization, Execution, and Concurrency Control Techniques"	30
+1225	"Supporting Temporal Multimedia Operations in Object-Oriented Database Systems"	1
+1261	"Maintaining Quasi Serializability in Multidatabase Systems"	7
+1186	"Reducing Multidatabase Query Response Time by Tree Balancing"	5
+375	"SPIRIT: Sequential Pattern Mining with Regular Expression Constraints"	2
+1348	"Delegation in ACTA to Control Sharing in Extended Transactions"	2
+369	"Linear Clustering of Objects with Multiple Atributes"	41
+528	"Customizing Transaction Models and Mechanisms in a Programmable Environment Supporting Reliable Workflow Automation"	1
+1357	"Spatial Data Reallocation Based on Multidimensional Range Queries - A Contribution to Data Management for the Earth Sciences"	1
+306	"Combining Indexing Technique with Path Dictionary for Nested Object Queries"	1
+108	"ARIES/IM: An Efficient and High Concurrency Index Management Method Using Write-Ahead Logging"	47
+416	"Spatial Search with Polyhedra"	22
+526	"Integrating Triggers and Declarative Constraints in SQL Database Sytems"	8
+1322	"A Framework for Enforceable Specification of Extended Transaction Models and Transaction Workflows"	4
+107	"Rule Languages and Internal Algebras for Rule-Based Optimizers"	10
+457	"ActivityFlow: Towards Incremental Specification and Flexible Coordination of Workflow Activities"	1
+1260	"Run-Time Management of Data Intensive Web Sites"	1
+72	"Algorithms for Flexible Space Management in Transaction Systems Supporting Fine-Granularity Locking"	6
+1228	"Generalization and a Framework for Query Modification"	2
+255	"Implementing Calendars and Temporal Rules in Next Generation Databases"	10
+335	"Information Translation, Mediation, and Mosaic-Based Browsing in the TSIMMIS System"	5
+856	"Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources"	1
+572	"Query Graphs, Implementing Trees, and Freely-Reorderable Outerjoins"	12
+1097	"Scientific Workflow Management by Database Management"	0
+482	"Optimal Histograms for Hierarchical Range Queries"	0
+1055	"Interactive Query and Search in Semistructured Databases"	5
+818	"Performance Evaluation of Extended Storage Architectures for Transaction Processing"	4
+214	"Fault Tolerance Issues in Data Declustering for Parallel Database Systems"	0
+40	"Optimizing Queries with Universal Quantification in Object-Oriented and Object-Relational Databases"	1
+901	"Modeling and Maintaining Multi-View Data Warehouses"	0
+265	"Relational Databases for Querying XML Documents: Limitations and Opportunities"	11
+506	"Sequential Sampling Procedures for Query Size Estimation"	28
+671	"The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept"	2
+146	"Sampling-Based Estimation of the Number of Distinct Values of an Attribute"	24
+388	"DBIS-Toolkit: Adaptable Middleware for Large Scale Data Delivery"	1
+87	"Reusing Invariants: A New Strategy for Correlated Queries"	3
+1306	"Flexible Constraint Management for Autonomous Distributed Databases"	1
+493	"Query Execution Techniques for Caching Expensive Methods"	14
+1067	"Performance Analysis of Several Algorithms for Processing Joins between Textual Attributes"	0
+35	"Multi-dimensional Resource Scheduling for Parallel Queries"	4
+1275	"Tableau Techniques for Querying Information Sources through Global Schemas"	6
+1150	"Main Memory Oriented Optimization of OO Queries Using Typed Datalog with Foreign Predicates"	9
+1001	"Near-Optimum Storage Models for Nested Relations Based on Workload Information"	1
+1353	"Differential Query Processing in Transaction-Time Databases"	3
+504	"Merging Application-centric and Data-centric Approaches to Support Transaction-oriented Multi-system Workflows"	78
+777	"Distributed Multi-Level Recovery in Main-Memory Databases"	2
+245	"Data Caching Issues in an Information Retrieval System"	38
+140	"Bitmap Index Design and Evaluation"	6
+1175	"Tail Recursion Elimination in Deductive Databases"	0
+471	"Evaluating Top-k Selection Queries"	1
+650	"Text / Relational Database Management Systems: Harmonizing SQL and SGML"	7
+225	"Index Structures for Information Filtering Under the Vector Space Model"	5
+267	"Changing the Rules: Transformations for Rule-Based Optimizers"	2
+750	"Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing"	5
+470	"A Temporal Data Model Based on Time Sequences"	7
+906	"Parallel Processing of Spatial Joins Using R-trees"	6
+843	"An Approach to Eliminate Transaction Blocking in Locking Protocols"	2
+1105	"SQLJ Part 0, Now Known as SQL/OLB (Object-Language Bindings)"	2
+970	"The Design, Implementation, and Evaluation of an Object-Based Sharing Mechanism for Federated Database Systems"	3
+1155	"Efficient and Transparent Application Recovery in Client-Server Information Systems"	4
+339	"Capabilities-Based Query Rewriting in Mediator Systems"	12
+1336	"Ordered Sharing a New Lock Primitive for Database Systems"	2
+36	"javax.XXL: A prototype for a Library of Query processing Algorithms"	0
+1272	"A Suite of Database Replication Protocols based on Group Communication Primitives"	3
+1047	"Scalable Distributed Query and Update Service Implementations for XML Document Elements"	0
+829	"Are We Moving Toward an Information SuperHighway or a Tower of Babel? The Challenge of Large-Scale Semantic Heterogeneity"	1
+574	"MLR: A Recovery Method for Multi-level Systems"	12
+463	"Multi-Level Transaction Management for Complex Objects: Implementation, Performance, Parallelism"	9
+1036	"A Keying Method for a Nested Relational Database Management System"	1
+875	"On the Logical Foundations of Schema Integration and Evolution in Heterogeneous Database Systems"	11
+356	"Efficient Filtering of XML Documents for Selective Dissemination of Information"	0
+817	"Determining the Optimal File Size on Tertiary Storage Systems Based on the Distribution of Query Sizes"	1
+223	"Transactional Client-Server Cache Consistency: Alternatives and Performance"	2
+729	"Microsoft Index Tuning Wizard for SQL Server 7.0"	1
+242	"Efficient Scheduling of Page Access in Index-Based Join Processing"	0
+867	"Object-Oriented Features of DB2 Client/Server"	3
+508	"Fine-granularity Locking and Client-Based Logging for Distributed Architectures"	2
+283	"Fast Computation of Sparse Datacubes"	13
+1305	"Modeling Interactive Web Sources for Information Mediation"	0
+447	"Managing Intra-operator Parallelism in Parallel Database Systems"	6
+699	"Handling Data Skew in Multiprocessor Database Computers Using Partition Tuning"	24
+1013	"A Relation Merging Technique for Relational Databases"	2
+275	"Commit processing in distributed real-time database systems"	30
+394	"Sampling-Based Selectivity Estimation for Joins Using Augmented Frequent Value Statistics"	6
+1203	"Object-Oriented Modeling for Hypermedia Systems Using the VODAK Model Language"	7
+484	"A Spanning Tree Transitive Closure Algorithm"	10
+975	"Data-Driven, One-To-One Web Site Generation for Data-Intensive Applications"	3
+391	"RainForest - A Framework for Fast Decision Tree Construction of Large Datasets"	5
+512	"Efficient Main Memory Data Management Using the DBGraph Storage Model"	7
+374	"The Snapshot Index: An I/O-optimal access method for timeslice queries"	10
+987	"The Performance of a Multiversion Access Method"	16
+347	"Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total"	91
+256	"A Graph Theoretical Approach to Determine a Join Reducer Sequence in Distributed Query Processing"	1
+514	"Practical Applications of Triggers and Constraints: Success and Lingering Issues (10-Year Award)"	0
+1094	"Pipelined Query Processing in the DBGraph Storage Model"	1
+660	"On the Equivalence of Recursive and Nonrecursive Datalog Programs"	17
+945	"A Semantics for a Class of Non-Deterministic and Causal Production System Programs"	1
+522	"Classifying Network Architectures for Locating Information Sources"	0
+1071	"Controlling the Search in Bottom-Up Evaluation"	10
+288	"Hierarchical Encoded Path Views for Path Query Processing: An Optimal Model and Its Performance Evaluation"	0
+887	"Using Write Protected Data Structures To Improve Software Fault Tolerance in Highly Available Database Management Systems"	4
+1346	"On Global Transaction Scheduling Criteria in Multidatabase Systems"	1
+743	"Intra-Transaction Parallelism in the Mapping of an Object Model to a Relational Multi-Processor System"	4
+1002	"A Performance Study of Three High Availability Data Replication Strategies"	5
+81	"Safely and Efficiently Updating References During On-line Reorganization"	2
+821	"Interactions Between Query Optimization and Concurrency Control"	5
+624	"The Implementation and Performance Evaluation of the ADMS Query Optimizer: Integrating Query Result Caching and Matching"	18
+305	"Dictionary: A New Access Method for Query Processing in Object-Oriented Databases"	0
+75	"A Break for Workaholics: Energy-Efficient Selective Tuning Mechanisms for Demand-Driven-Based Wireless Environment"	0
+537	"Sibling Clustering of Tree-Based Spatial Indexes for Efficient Spatial Query Processing"	2
+1098	"Range Selectivity Estimation for Continuous Attributes"	2
+485	"Hybrid Transitive Closure Algorithms"	13
+573	"PlugJoin: An easy-to-use Generic Algorithm for Efficiently Processing Equi and Non-Equi Joins"	1
+983	"Using Codewords to Protect Database Data from a Class of Software Errors"	1
+1343	"Conjunctive Query Equivalence of Keyed Relational Schemas"	1
+23	"Fast Algorithms for Mining Association Rules in Large Databases"	101
+211	"Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment"	28
+1144	"A Unified Approach to Concurrency Control and Transaction Recovery (Extended Abstract)"	2
+601	"Constraint-Based Algorithms for Computing Clique Intersection Joins"	1
+293	"Evaluation of Relational Algebras Incorporating the Time Dimension in Databases"	18
+517	"Implementing Crash Recovery in QuickStore: A Performance Study"	3
+340	"Constructing and Maintaining Scientific Database Views in the Framework of the Object-Protocol Model"	4
+220	"Efficient Organization of Large Multidimensional Arrays"	27
+181	"On Applying Hash Filters to Improving the Execution of Multi-Join Queries"	0
+67	"Concurrency and Recovery in Generalized Search Trees"	9
+1345	"Multilevel Secure Rules: Integrating the Multilevel Secure and Active Data Models"	4
+845	"Making B+-Trees Cache Conscious in Main Memory"	0
+1103	"Temporal Object-Oriented Databases: A Critical Comparison"	31
+802	"Multi-Agent Cooperative Transactions for E-Commerce"	0
+725	"Adding Active Functionality to an Object-Oriented Database System - a Layered Approach"	3
+19	"Predicate Migration: Optimizing Queries with Expensive Predicates"	43
+1240	"Mining Deviants in a Time Series Database"	1
+1370	"Optimizing Statistical Queries by Exploiting Orthogonality and Interval Properties of Grouping Relations"	0
+1122	"Second-Order Signature: A Tool for Specifying Data Models, Query Processing, and Optimization"	6
+890	"The Design and Experimental Evaluation of an Information Discovery Mechanism for Networks of Autonomous Database Systems"	3
+1051	"Data Mining for Web Intelligence"	13
+1070	"Using Partial Differencing for Efficient Monitoring of Deferred Complex Rule Conditions"	3
+193	"A View Mechanism for Object-Oriented Databases"	29
+1124	"CMD: A Multidimensional Declustering Method for Parallel Data Systems"	16
+1256	"Data Management for XML: Research Directions"	2
+21	"Spatial indexing in binary decomposition and spatial bounding"	3
+135	"Independent, Open Enterprise Data Integration"	3
+1254	"KMeD: a Knowledge-based Multimedia Medical Distributed Database System"	4
+958	"More optimism about real-time distributed commit processing"	18
+824	"Efficient Channel Allocation Tree Generation for Data Broadcasting in a Mobile Computing Environment"	15
+1269	"Determining Beneficial Semijoins for a Join Sequence in Distributed Query Processing"	1
+1086	"A Log-Structured History Data Access Method (LHAM)"	3
+995	"Review - Providing Better Support for a Class of Decision Support Queries"	0
+130	"Active Database Modeling and Design Tools: Issues, Approache, and Architecture"	2
+923	"Extending Practical Pre-Aggregation in On-Line Analytical Processing"	0
+849	"An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server"	8
+828	"Self-Adaptive User Profiles for Large-Scale Data Delivery"	1
+592	"From Database Programming to Business Process Programming"	1
+670	"Query-Adaptive Data Space Partitioning using Variable-Size Storage Clusters"	3
+723	"Knowledge Discovery in Large Spatial Databases: Focusing Techniques for Efficient Class Identification"	11
+880	"Synthesis of Extended Transaction Models Using ACTA"	15
+132	"On Optimal Processor Allocation to Support Pipelined Hash Joins"	13
+1133	"Improving Rule Analysis by Means of Triggering and Activation Graphs"	26
+479	"A Flexible and Adaptable Tool Kit Approach for Concurrency Control in Non Standard Database Systems"	0
+1112	"An Access Control Mechanism for Large Scale Data Dissemination Systems"	0
+1037	"Data Intensive Intra-  Internet Applications - Experiences Using Java and CORBA in the World Wide Web"	1
+582	"Buffer Analysis for a Data Sharing Environment with Skewed Data Access"	3
+204	"Query Processing in Tertiary Memory Databases"	15
+530	"Dynamic File Allocation in Disk Arrays"	14
+1073	"Exploiting Logical Structures in Replicated Databases"	4
+727	"Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System"	2
+368	"Analysis of the n-Dimensional Quadtree Decomposition for Arbitrary Hyperectangles"	3
+279	"Performance Analysis of Coherency Control Policies through Lock Retention"	6
+57	"Static Type Checking of Multi-Methods"	7
+1101	"An Efficient Bitmap Encoding Scheme for Selection Queries"	0
+971	"A Semantics for a Class of Stratified Production System Programs"	3
+611	"Temporal Modules: An Approach Toward Federated Temporal Databases"	8
+83	"Behavior of Database Production Rules: Termination, Confluence, and Observable Determinism"	35
+179	"The Postgres Next Generation Database Management System"	43
+1344	"Modular Synchronization in Distributed, Multiversion Databases: Version Control and Concurrency Control"	2
+1199	"Indexing the Edges - A Simple and Yet Efficient Approach to High-Dimensional Indexing"	1
+232	"Integrated Document Caching and Prefetching in Storage Hierarchies Based on Markov-Chain Predictions"	2
+645	"Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing"	1
+1352	"Active Database Systems (Abstract)"	2
+1321	"Using Annotations to Support Multiple Kinds of Versioning in an Object-Oriented Database System"	6
+1202	"Object Allocation in Distributed Databases and Mobile Computers"	7
+1057	"Review - Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total"	0
+202	"Incremental Implementation Model for Relational Databases with Transaction Time"	18
+66	"Dynamic Granular Locking Approach to Phantom Protection in R-Trees"	1
+397	"Database Mining: A Performance Perspective"	40
+996	"Mining Process Models from Workflow Logs"	1
+1209	"DATAPLEX: An Access to Heterogeneous Distributed Databases"	8
+1265	"Exploiting Transaction Semantics in Multidatabase Systems"	2
+664	"Functionality and Limitations of Current Workflow Management Systems"	6
+1120	"Energy-Efficient Caching for Wireless Mobile Computing"	4
+430	"The Impact of Data Placement on Memory Management for Multi-Server OODBMS"	2
+1220	"Exotica/FMDC: Handling Disconnected Clients in a Workflow Management System"	1
+1168	"The Interval Skip List: A Data Structure for Finding All Intervals that Overlap a Point"	2
+709	"Optimal Placement of High-Probability Randomly Retrieved Blocks on CLV Optical Discs"	7
+127	"An Overview of Data Warehousing and OLAP Technology"	338
+1287	"Tools and Transformations - Rigorous and Otherwise - for Practical Database Design"	7
+162	"Dynamic and Load-balanced Task-Oriented Datbase Query Processing in Parallel Systems"	6
+241	"Scalable Versioning in Distributed Databases with Commuting Updates"	1
+916	"Dynamic Optimization of Index Scans Restricted by Booleans"	1
+791	"Self-Tuning Technology in Microsoft SQL Server"	0
+662	"Ensuring Transaction Atomicity in Multidatabase Systems"	7
+1065	"Future of Database Systems: Changing Applications and Technological Developments"	0
+613	"A Cost-Model-Based Online Method for Ditributed Caching"	4
+96	"Modelling Large Scale OLAP Scenarios"	12
+1205	"The Breakdown of the Information Model in Multi-Database Systems"	52
+1166	"A One-Pass Space-Efficient Algorithm for Finding Quantiles"	3
+187	"The 3W Model and Algebra for Unified Data Mining"	0
+569	"Value-Based Scheduling in Real-Time Database Systems"	2
+1181	"Review - DynaMat: A Dynamic View Management System for Data Warehouses"	1
+513	"Monet And Its Geographic Extensions: A Novel Approach to High Performance GIS Processing"	7
+258	"Concurrency Control in Hierarchical Multidatabase Systems"	2
+525	"Compilation-Based List Processing in Deductive Databases"	2
+14	"Some Approaches to Index Design for Cude Forests"	0
+1006	"Conjunctive Constraint Mapping for Data Translation"	1
+1116	"Interoperable Query Processing from Object to Relational Schemas Based on a Parameterized Canonical Representation"	1
+344	"Local Dimensionality Reduction: A New Approach to Indexing High Dimensional Spaces"	0
+158	"Ode as an Active Database: Constraints and Triggers"	37
+248	"Enhancing Semistructured Data Mediators with Document Type Definitions"	4
+1289	"On Resource Scheduling of Multi-Join Queries in Parallel Database Systems"	3
+224	"Duplicate Removal in Information System Dissemination"	3
+533	"Disk Read-Write Optimizations and Data Integrity in Transaction Systems Using Write-Ahead Logging"	1
+636	"Statistical Estimators for Aggregate Relational Algebra Queries"	12
+145	"Improved Histograms for Selectivity Estimation of Range Predicates"	46
+1075	"Efficient Maintenance of Rule-Derived Data through Join Pattern Indexing"	1
+311	"Dynamically Optimizing High-Dimensional Index Structures"	0
+153	"Topological Relations in the World of Minimum Bounding Rectangles: A Study with R-trees"	10
+693	"Optimizing Queries with Aggregate Views"	7
+1371	"Efficient Query Processing for a Subset of Linear Recursive Binary Rules"	0
+287	"Low Complexity Aggregation in GraphLog and Datalog"	7
+300	"Efficient Sampling Strategies for Relational Database Operations"	12
+706	"Garbage Collection in Object Oriented Databases Using Transactional Cyclic Reference Counting"	2
+1091	"Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences"	4
+953	"Data Hiding and Security in Object-Oriented Databases"	3
+209	"Temporal Query Processing and Optimization in Multiprocessor Database Machines"	7
+3	"Approximation-Based Similarity Search for 3-D Surface Segments"	17
+1414	"Managing Network Resources for Efficient, Reliable Information Systems"	0
+1188	"Domain-Independent Queries on Databases with External Functions"	1
+854	"GraphDB: Modeling and Querying Graphs in Databases"	5
+48	"Exploring Semantics in Aggregation Hierarchies for Object-Oriented Databases"	4
+412	"LoT: Dynamic Declustering of TSB-Tree Nodes for Parallel Access to Temporal Data"	1
+926	"A Layered Approach to Scientific Data Management at Lawrence Berkeley Laboratory"	2
+1318	"UniSQL/X Unified Relational and Object-Oriented Database System"	3
+976	"Catching the Boat with Strudel: Experiences with a Web-Site Management System"	22
+261	"Performance Tradeoffs for Client-Server Query Processing"	12
+314	"Extending the Search Strategy in a Query Optimizer"	21
+221	"Efficient View Maintenance at Data Warehouses"	11
+1054	"Capturing and Querying Multiple Aspects of Semistructured Data"	0
+896	"A Query Sampling Method of Estimating Local Cost Parameters in a Multidatabase System"	5
+497	"An Algebraic Approach to Rule Analysis in Expert Database Systems"	13
+1022	"Domains and Active Domains: What This Distinction Implies for the Estimation of Projection Sizes in Relational Databases"	0
+1111	"Analysis of Hybrid Concurrency Control Schemes For a High Data Contention Environment"	6
+874	"On Efficiently Implementing SchemaSQL on an SQL Database System"	0
+461	"Large-Sample and Deterministic Confidence Intervals for Online Aggregation"	7
+1413	"Adaptable, Efficient, and Modular Coordination of Distributed Extended Transactions"	2
+621	"Optimizing Queries with Materialized Views"	46
+1282	"An Overview of Repository Technology"	6
+349	"Direct Transitive Closure Algorithms: Design and Performance Evaluation"	20
+71	"Repeating History Beyond ARIES"	0
+966	"Implementing High Level Active Rules on Top of a Relational DBMS"	16
+823	"Signature caching techniques for information filtering in mobile environments"	22
+520	"Query Optimization in a Memory-Resident Domain Relational Calculus Database System"	17
+61	"Query Pre-Execution and Batching in Paradise: A Two-Pronged Approach to the Efficient Processing of Queries on Tape-Resident Raster Images"	8
+147	"Review - The Logical Access Path Schema of a Database"	0
+143	"Cooperative Transaction Hierarchies: A Transaction Model to Support Design Applications"	10
+1267	"Secure Buffering in Firm Real-Time Database Systems"	0
+95	"Integrating Standard Transactions in Firm Real-Time Database Systems"	1
+1313	"Containment of Conjunctive Queries: Beyond Relations as Sets"	5
+111	"ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging"	112
+1356	"Heap-Filter Merge Join: A New Algorithm For Joining Medium-Size Inputs"	2
+541	"Distributed Database Systems: Where Are We Now?"	7
+1029	"Services for a Workflow Management System"	1
+269	"Efficient Spatial Query Processing in Geographic Database Systems"	2
+998	"Design Principles for Data-Intensive Web Sites"	16
+842	"Relations with Relation Names as Arguments: Algebra and Calculus"	10
+788	"How To Roll a Join: Asynchronous Incremental View Maintenance"	1
+117	"Optimizing Queries over Multimedia Repositories"	17
+1152	"Distributed data integration by object-oriented mediator servers"	33
+212	"A Declarative Approach to Active Databases"	1
+736	"Data partitioning for multicomputer datbase systems: a cell-based approach"	3
+969	"Bounded Fixpoints for Complex Objects"	10
+952	"Generating Broadcast Programs that Support Range Queries"	1
+422	"Interleaving a Join Sequence with Semijoins in Distributed Query Processing"	7
+1093	"Automatic Subspace Clustering of High Dimensional Data for Data Mining Applications"	14
+274	"Earliest Deadline Scheduling for Real-Time Database Systems"	77
+418	"Enhanced Abstract Data Types in Object-Relational Databases"	3
+260	"Fundamental Properties of Deterministic and Nondeterministic Extensions of Datalog"	15
+37	"Data Redundancy and Duplicate Detection in Spatial Join Processing"	2
+1367	"Architecture of Future Data Base Systems"	2
+276	"Towards Self-Tuning Data Placement in Parallel Database Systems"	0
+185	"Tutorial on Parallel Database Systems"	0
+644	"A Temporal Knowledge Representation Model OSAM*/T and Its Query Language OQL/T"	12
+822	"Multiclass Query Scheduling in Real-Time Database Systems"	0
+790	"Methodical Restructuring of Complex Workflow Activities"	2
+1374	"Design and Implementation of Advanced Knowledge Processing in the KDMS KRISYS (Demonstration Description)"	1
+1008	"Generalised Hash Teams for Join and Group-by"	0
+609	"Modularization Techniques for Active Rules Design"	7
+1138	"Section Coding: Ein Verfahren zur Ahnlichkeitssuche in CAD-Datenbanken"	2
+431	"A Predicate-based Caching Scheme for Client-Server Database Architectures"	6
+316	"Epidemic Algorithms in Replicated Databases (Extended Abstract)"	4
+1388	"New and Forgotten Dreams in Database Research (Panel)"	0
+578	"Partition Based Spatial-Merge Join"	23
+500	"ARIES-RRH: Restricted Repeating of History in the ARIES Transaction Recovery Method"	17
+184	"Combining Histograms and Parametric Curve Fitting for Feedback-Driven Query Result-size Estimation"	2
+676	"Data Base Design Principles for Striping and Placement of Delay-Sensitive Data on Disks"	1
+1005	"Exploiting the Features of Asymmetry for Query Processing in a Mobile Computing Environment"	0
+1354	"Transaction Management Issues in a Failure-Prone Multidatabase System Environment"	4
+1193	"A Periodic Deadlock Detection and Resolution Algorithm with a New Graph Model for Sequential Transaction Processing"	3
+44	"A Uniform Model for Temporal Object-Oriented Databases"	22
+168	"Cubetree: Organization of and Bulk Updates on the Data Cube"	11
+881	"Architecture of Active Database Systems"	1
+1226	"An Optimistic Commit Protocol for Distributed Transaction Management"	10
+1106	"Optimization of Object-Oriented Recursive Queries using Cost-Controlled Strategies"	5
+379	"Constraint Enforcement Through Production Rules: Putting Active Databases at Work"	3
+634	"Database Research: Achievements and Opportunities Into the 21st Century"	52
+141	"Multi-Table Joins Through Bitmapped Join Indices"	51
+626	"Parallel Database Systems: the case for shared-something"	3
+1197	"Stochastic Performance Guarantees for Mixed Workloads in a Multimedia Information System"	1
+123	"Dual-Buffering Strategies in Object Bases"	9
+364	"Outer Join Optimization in Multidatabase Systems"	8
+175	"STARTS: Stanford Proposal for Internet Meta-Searching (Experience Paper)"	11
+109	"An Execution Model for Limited Ambiguity Rules and Its Application to Derived Data Update"	2
+1411	"Review - The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles"	0
+4	"Pipelining Mechanism to Minimize the Latency Time in Hierarchical Multimedia Storage Managers"	36
+1049	"A Pyramid Data Model for Supporting Content-Based Browsing and Knowledge Discovery"	1
+1250	"BigSur: A System For the Management of Earth Science Data"	5
+125	"PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning"	5
+1218	"A Low-Cost Storage Server for Movie on Demand Databases"	10
+1	"Selectivity Estimation Without the Attribute Value Independence Assumption"	22
+673	"Practical Predicate Placement"	17
+2	"A Multistep Approach for Shape Similarity Search in Image Databases"	0
+786	"Histogram-Based Solutions to Diverse Database Estimation Problems"	7
+362	"ARIES/LHS: A Concurrency Control and Recovery Method Using Write-Ahead Logging for Linear Hashing with Separators"	8
+1342	"Semantic Query Optimization for Tree and Chain Queries"	4
+1316	"Processing Top N and Bottom N Queries"	1
+383	"Advanced Data Processing in KRISYS: Modeling Concepts, Implementation Techniques, and Client/Server Issues"	1
+1392	"Random Sampling from Database Files: A Survey"	3
+444	"Dynamic Memory Allocation for Multiple-Query Workloads"	9
+556	"Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases"	20
+1044	"An Algorithm for Computing the Overlay of k-Dimensional Spaces"	6
+735	"Static Detection of Security Flaws in Object-Oriented Databases"	0
+222	"Deriving Production Rules for Incremental View Maintenance"	72
+172	"Uniform Object Management"	6
+685	"Stochastic Service Guarantees for Continuous Data on Multi-Zone Disks"	2
+1135	"Refined Triggering Graphs: A Logic-Based Approach to Termination Analysis in an Active Object-Oriented Database"	5
+1048	"Transaction Chopping: Algorithms and Performance Studies"	5
+655	"Optimization of Generalized Transitive Closure Queries"	5
+683	"SQL/XNF - Processing Composite Objects as Abstractions over Relational Data"	9
+27	"LH* - A Scalable, Distributed Data Structure"	3
+177	"Algorithms for the Management of Remote Backup Data Bases for Disaster Recovery"	7
+770	"A Rule Engine for Query Transformation in Starburst and IBM DB2 C/S DBMS"	2
+124	"Data Mining and the Web: Past, Present and Future"	0
+1180	"Review - View Indexing in Relational Databases"	0
+930	"Efficient Incremental Evaluation of Queries with Aggregation"	4
+748	"Relaxing Serializability in Multidatabase Systems"	5
+1363	"Transaction Support in Read Optimizied and Write Optimized File Systems"	2
+1123	"From Relations and Nested Relations to Object Models"	1
+352	"Integrating Mining with Relational Database Systems: Alternatives and Implications"	10
+63	"Queries on Change in an Extended Relational Model"	5
+324	"Optimization of Run-time Management of Data Intensive Web-sites"	2
+56	"Polyglot: Extensions to Relational Databases for Sharable Types and Functions in a Multi-Language Environment"	3
+1014	"On the Expected Size of Recursive Datalog Queries"	1
+852	"Constraint-based clustering in large databases"	0
+472	"A Retrieval Technique for Similar Shapes"	40
+654	"The Effectiveness of GlOSS for the Text Database Discovery Problem"	15
+1189	"A Database Perspective on Lotus Domino/Notes"	1
+1361	"A Model-Theoretic Semantics of the Multilevel Relational Model"	1
+1023	"Workflow History Management in Virtual Enterprises Using a Light-Weight Workflow Management System"	2
+737	"A Toolkit for Constraint Management in Heterogeneous Information Systems"	2
+1108	"Tapes Hold Data, Too: Challenges of Tuples on Tertiary Store"	9
+201	"Temporal Specialization and Generalization"	5
+198	"A Query Language for a Web-Site Management System"	109
+76	"Sleepers and Workaholics: Caching Strategies in Mobile Environments"	20
+899	"Persistence in E Revisited - Implementation Experiences"	13
+1227	"Kaleidoscope Data Model for An English-like Query Language"	0
+272	"Data Placement and Buffer Management for Concurrent Mergesorts with Parallel Prefetching"	1
+194	"Performance Measurements of Compressed Bitmap Indices"	0
+753	"A Framework for Feature-Based Indexing for Spatial Databases"	1
+931	"A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System"	0
+65	"A Performance Evaluation of Pointer-Based Joins"	27
+638	"Hash-Based Join Algorithms for Multiprocessor Computers"	18
+1407	"The INCINERATE Data Model"	1
+1280	"Conceptual Schemas: Multi-faceted Tools for Desktop Scientific Experiment Management"	6
+393	"Balancing Histogram Optimality and Practicality for Query Result Size Estimation"	28
+742	"Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability"	0
+992	"Better Termination Analysis for Active Databases"	26
+1283	"The Committee for Advanced DBMS Function': Third Generation Data Base System Manifesto"	2
+1074	"The Design and Implementation of Seeded Trees: An Efficient Method for Spatial Joins"	0
+1125	"SCAM: A Copy Detection Mechanism for Digital Documents"	5
+421	"An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure"	410
+516	"Supporting Fine-grained Data Lineage in a Database Visualization Environment"	4
+652	"Optimal Histograms for Limiting Worst-Case Error Propagation in the Size of Join Results"	15
+1114	"An Efficient and Reliable Reservation Algorithm for Mobile Transactions"	1
+326	"Specification and Management of Extended Transactions in a Programmable Transaction Environment"	14
+419	"Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans"	8
+763	"2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm"	9
+1333	"A Non-Restrictive Concurrency Control for Object Oriented Databases"	4
+1009	"An Adaptive Data Placement Scheme for Parallel Database Computer Systems"	17
+1286	"Search and Ranking Algorithms for Locating Resources on the World Wide Web"	3
+925	"On Indexing Spatial and Temporal Data, Invited Project Review"	1
+844	"Using Delayed Commitment in Locking Protocols for Real-Time Databases"	7
+558	"Performance evaluation of algorithms for transitive closure"	3
+448	"Inferring Function Semantics to Optimize Queries"	1
+1380	"ICICLES: Self-Tuning Samples for Approximate Query Answering"	0
+878	"TOODM - A Temporal Object-Oriented Data Model with Temporal Constraints"	23
+570	"A Performance Study of Alternative Object Faulting and Pointer Swizzling Strategies"	17
+308	"Performance Evaluation of Integrity Control in a Parallel Main-Memory Database System"	3
+329	"Cache Conscious Indexing for Decision-Support in Main Memory"	2
+405	"An Efficient and Fault-Tolerant Solution for Distributed Mutual Exclusion"	5
+1323	"The Value of Merge-Join and Hash-Join in SQL Server"	1
+703	"GlOSS: Text-Source Discovery over the Internet"	1
+1060	"Resilient Logical Structures for Efficient Management of Replicated Data"	0
+503	"Estimation of Query-Result Distribution and its Application in Parallel-Join Load Balancing"	5
+814	"Aggregate Aware Caching for Multi-Dimensional Queries"	0
+641	"Testing Complex Temporal Relationships Involving Multiple Granularities and Its Application to Data Mining"	1
+361	"Making Deductive Databases a Practical Technology: A Step Forward"	23
+456	"CORAL - Control, Relations and Logic"	31
+891	"Optimizations of Bottom-Up Evaluation with Non-Ground Terms (Extended Abstract)"	1
+1360	"Large Object Support in POSTGRES"	1
+69	"A Transparent Object-Oriented Schema Change Approach Using View Evolution"	6
+489	"A Framework for Scalbale Dissemination-Based Systems"	4
+640	"Logical Information Modeling of Web-Accessible Heterogeneous Digital Assets"	3
+1329	"Review - The GMAP: A Versatile Tool for Physical Data Independence"	0
+409	"Research Directions in Object-Oriented Database Systems"	3
+452	"Rule Condition Testing and Action Execution in Ariel"	38
+304	"Evolution of Relational DBMSs Toward Object Support: A Practical Viewpoint"	4
+402	"Organizing Long-Running Activities with Triggers and Transactions"	45
+543	"On Rules, Procedures, Caching and Views in Data Base Systems"	84
+702	"Local Ambiguity and Derived Data Update"	2
+399	"Exploiting Versions for Handling Updates in Broadcast Disks"	0
+850	"Qualitative Representation of Spatial Knowledge in Two-Dimensional Space"	7
+186	"A Multiuser Performance Analysis of Alternative Declustering Strategies"	23
+768	"Efficient Evaluation of Aggregates on Bulk Types"	4
+794	"Referential Integrity Revisited: An Object-Oriented Perspective"	6
+73	"Database Techniques for the World-Wide Web: A Survey"	343
+183	"Approximating Multi-Dimensional Aggregate Range Queries over Real Attributes"	0
+911	"Designing Access Methods for Bitemporal Databases"	5
+208	"On Spatially Partitioned Temporal Join"	1
+730	"AutoAdmin 'What-if' Index Analysis Utility"	4
+1063	"Modeling and Analysis of a Time-Stamp History Based Certification Protocol for Concurrency Control"	2
+1066	"MMVIS: Design and Implementation of a Multimedia Visual Information Seeking Environment"	1
+933	"Schema Equivalence in Heterogeneous Systems: Bridging Theory and Practice (Extended Abstract)"	0
+451	"Extending the Transaction Model to Capture more Meaning"	29
+972	"Analytic Modeling and Comparisons of Striping Strategies for Replicated Disk Arrays"	2
+112	"Coral++: Adding Object-Orientation to a Logic Database Language"	4
+148	"An Adaptive Hash Join Algorithm for Multiuser Environments"	16
+772	"Concurrent File Reorganization: Clustering, Conversion and Maintenance"	1
+941	"The Multicast Policy and Its Relationship to Replicated Data Placement"	8
+649	"Structured Document Storage and Refined Declarative and Navigational Access Mechanisms in HyperStorM"	1
+738	"The Demarcation Protocol: A Technique for Maintaining Linear Arithmetic Constraints in Distributed Database Systems"	11
+1412	"Query Translation Supporting the Migration of Legacy Databases into Cooperative Information Systems"	1
+254	"Discovering Frequent Event Patterns with Multiple Granularities in Time Sequences"	1
+808	"Access Method Concurrency with Recovery"	20
+114	"Applying Hash Filters to Improving the Execution of Bushy Trees"	1
+407	"Distributed Algorithms for Dynamic Replication of Data"	11
+1288	"Memory Management During Run Generation in External Sorting"	1
+959	"Concurrency Control and Recovery in Transactional Process Management"	0
+934	"Schema equivalence in heterogeneous systems: bridging theory and practice"	11
+295	"QuickStore: A High Performance Mapped Object Store"	11
+639	"Semantic Interoperability in Global Information Systems: A Brief Introduction to the Research Area and the Special Section"	24
+1364	"Resolving Data Heterogeneity in Scientific and Statistical Databases"	1
+142	"Failure Handling for Transaction Hierarchies"	2
+557	"Rule Ordering in Bottom-Up Fixpoint Evaluation of Logic Programs"	5
+903	"Object Views: Extending the Vision"	25
+1338	"A Visual Multimedia Query Language for Temporal Analysis of Video Data"	1
+333	"Fast Approximate Answers to Aggregate Queries on a Data Cube"	7
+289	"Transitive Closure Algorithms Based on Graph Traversal"	14
+10	"Prepare and Commit Certification for Decentralized Transaction Management in Rigorous Heterogeneous Multidatabases"	8
+406	"Query Containment for Conjunctive Queries with Regular Expressions"	6
+1249	"The TSIMMIS Approach to Mediation: Data Models and Languages"	9
+989	"Using Path Information for Query Processing in Object-Oriented Database Systems"	2
+213	"Implementing Set-Oriented Production Rules as an Extension to Starburst"	44
+1341	"Workflow Management in the Internet Age (Abstract)"	1
+978	"LH*s: A High-Availability and High-Security Scalable Distributed Data Structure"	1
+598	"CURE: An Efficient Clustering Algorithm for Large Databases"	15
+119	"Efficient Concurrency Control in Multidimensional Access Methods"	0
+675	"Estimating Page Fetches for Index Scans with Finite LRU Buffers"	0
+904	"A Practical and Modular Implementation of Extended Transaction Models"	6
+1052	"Algebraic Identities and Query Optimization in a Parametric Model for Relational Temporal Databases"	0
+988	"Dynamic Query Operator Scheduling for Wide-Area Remote Access"	1
+1378	"Review - A Novel Index Supporting High Volume Data Warehouse Insertion"	0
+1372	"Necessary and Sufficient Conditions to Linearize Double Recursive Programs in Logic Databases"	8
+1130	"Bambi Meets Godzilla: Object Databases for Scientific Computing"	3
+915	"Commit Scope Control in Nested Transactions"	3
+47	"Activity Model: A Declarative Approach for Capturing Communication Behavior in Object-Oriented Databases"	6
+733	"Analysis of the Hilbert Curve for Representing Two-Dimensional Space"	2
+873	"ESQL: An Extended SQL with Object and Deductive Capabilities"	2
+793	"Alert: An Architecture for Transforming a Passive DBMS into an Active DBMS"	14
+1099	"Algorithms for Searching Massive Graphs"	3
+355	"The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment"	12
+1187	"The Valid Model Semantics for Logic Programs"	4
+740	"Tools for View Generation in Object-Oriented Databases"	2
+538	"Intensional Answers to Database Queries"	2
+1297	"Compilation of Logic Programs to Implement Very Large Knowledge Base Systems - A Case Study: Educe*"	2
+967	"Performance of On-Line Index Construction Algorithms"	8
+78	"Mining Quantitative Association Rules in Large Relational Tables"	28
+234	"Visualization Techniques for Mining Large Databases: A Comparison"	2
+629	"Indexing Large Metric Spaces for Similarity Search Queries"	0
+755	"Cooperative Transaction Hierarchies: Transaction Support for Design Applications"	2
+812	"A Transformation-Based Approach to Optimizing Loops in Database Programming Languages"	6
+576	"OFL: A Functional Execution Model for Object Query Languages"	3
+562	"Developing and Accessing Scientific Databases with the Object-Protocol (OPM) Data Management Tools"	0
+686	"``Disk Cooling'' in Parallel Disk Systems"	10
+833	"Building a Hybrid Database Application for Structured Documents"	1
+546	"S3: Similarity Search in CAD Database Systems"	6
+1041	"Semantic Heterogeneity Resolution in Federated Databases by Metadata Implantation and Stepwise Evolution"	0
+643	"An Extended Transaction Environment for Workflows in Distributed Object Computing"	2
+1184	"Multi-Level Transactions and Open Nested Transactions"	5
+79	"Optimization of Dynamic Query Evaluation Plans"	18
+895	"Read Optimized File System Designs: A Performance Evaluation"	1
+589	"Adaptable Pointer Swizzling Strategies in Object Bases: Design, Realization, and Quantitative Analysis"	5
+1128	"The Wisconsin Benchmark: Past, Present, and Future"	4
+974	"Incremental Database Systems: Databases from Ground Up"	3
+238	"A Survey on Online Reorganization in IBM Products and Research"	3
+446	"Encapsulation of Parallelism in the Volcano Query Processing System"	30
+567	"Using Schematically Heterogeneous Structures"	3
+1207	"I/O Complexity for Range Queries on Region Data Stored Using an R-tree"	1
+105	"Efficient Processing of Spatial Joins Using R-Trees"	49
+156	"Querying Multiple Features of Groups in Relational Databases"	16
+284	"Data Mining and Personalization Technologies"	0
+0	"Reducing the Braking Distance of an SQL Query Engine"	5
+115	"Optimization of Multi-Way Join Queries for Parallel Execution"	16
+1222	"Management of Updates in the Enhanced Client-Server DBMS"	3
+884	"Optimizer and Parallel Engine Extensions for Handling Expensive Methods Based on Large Objects"	0
+705	"Data Placement in Shared-Nothing Parallel Database Systems"	2
+1016	"Using the Co-existence Approach to Achieve Combined Functionality of Object-Oriented and Relational Systems"	1
+1145	"Unifying concurrency control and recovery of transactions"	8
+830	"Context Interchange: Overcoming the Challenges of Large-Scale Interoperable Database Systems in a Dynamic Environment"	7
+799	"Semantic Compression and Pattern Extraction with Fascicles"	2
+1237	"An Overview of Cost-based Optimization of Queries with Aggregates"	3
+327	"The Concurrency Control Problem in Multidatabases: Characteristics and Solutions"	9
+46	"Mining Association Rules between Sets of Items in Large Databases"	111
+1160	"Introduction to the Special Section on Next-Generation Database Systems"	6
+270	"Optimization Techniques for Queries with Expensive Methods"	3
+542	"The Multilevel Grid File - A Dynamic Hierarchical Multidimensional File Structure"	7
+565	"A Scientific Database System for Polymers and Materials Engineering Needs"	2
+648	"Error-Constraint COUNT Query Evaluation in Relational Databases"	17
+832	"A Review of Recent Work on Multi-attribute Access Methods"	21
+627	"L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS"	5
+599	"Using Join Operations as Reducers in Distributed Query Processing"	2
+113	"Modular Stratification and Magic Sets for DATALOG Programs with Negation"	14
+166	"Extensible Database Management Systems"	18
+1201	"Space Optimization in Deductive Databases"	0
+116	"An Efficient and Flexible Method for Archiving a Data Base"	8
+586	"Online Feedback for Nested Aggregate Queries with Multi-Threading"	0
+762	"Buffer Management in Distributed Database Systems: A Data Mining Based Approach"	0
+928	"Optimization of Queries using Nested Indices"	7
+82	"ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes"	42
+505	"Fixed-Precision Estimation of Join Selectivity"	5
+90	"Flexible Buffer Allocation Based on Marginal Gains"	27
+1366	"Integrating Security with Fault-Tolerant Distributed Databases"	2
+1274	"Review - Complexity of Answering Queries Using Materialized Views"	0
+1241	"A Denotational Semantics for the Starburst Production Rule Language"	34
+1100	"Review - Predicate Migration: Optimizing Queries with Expensive Predicates"	0
+286	"Hy+: A Hygraph-based Query and Visualization System"	10
+1079	"FATES: Finding A Time dEpendent Shortest path"	13
+631	"Describing and Using Query Capabilities of Heterogeneous Sources"	8
+74	"Optimizing Queries Across Diverse Data Sources"	38
+1268	"Approximate Analysis of Real-Time Database Systems"	1
+425	"Efficient Algorithms for Mining Outliers from Large Data Sets"	1
+271	"Randomized Algorithms for Optimizing Large Join Queries"	46
+746	"Semantic Assumptions and Query Evaluation in Temporal Databases"	3
+515	"DIASPORA: A highly distributed web-query processing system"	22
+387	"Extensible Buffer Management of Indexes"	9
+390	"Counting, Enumerating, and Sampling of Execution Plans in a Cost-Based Query Optimizer"	0
+826	"A Survey of Indexing Techniques for Object-Oriented Database Management Systems"	8
+579	"The Deductive Synthesis of Database Transactions"	1
+1126	"In Search of Acceptability Citeria: Database Consistency Requirements and Transaction Correctness properties"	4
+18	"An Optimizer for Heterogeneous Systems with NonStandard Data and Search Capabilities"	3
+11	"A Paradigm for Concurrency Control in Heterogeneous Distributed Database Systems"	17
+553	"Guest Editors' Introduction to the Special Issue on Heterogeneous Databases"	7
+1084	"Structural Query Optimization - A uniform Framework for Semantic Query Optimization in Deductive Databases"	3
+747	"Some Approaches to Index Design for Cube Forest"	7
+726	"Evaluating the Cost of Boolean Query Mapping"	0
+1030	"Third Generation TP Monitors: A Database Challenge"	9
+1087	"Comparison of Approximations of Complex Objects Used for Approximation-based Query Processing in Spatial Database Systems"	16
+121	"Concentric Hyperspaces and Disk Allocation for Fast Parallel Range Searching"	3
+200	"Techniques for Online Exploration of Large Object-Relational Datasets"	0
+551	"Optimal Multi-Step k-Nearest Neighbor Search"	8
+973	"A C++ Binding for Penguin: a System for Data Sharing among Heterogeneous Object Models"	1
+1154	"Bit-Sliced Signature Files for Very Large Text Databases an a Parallel Machine Architecture"	1
+1018	"Mining Knowledge at Multiple Concept Levels"	2
+834	"Analytical Modeling of a Hierarchical Buffer for a Data Sharing Environment"	8
+807	"Exploiting A History Database for Backup"	3
+1252	"Object-Oriented Approach to Managing Statistical and Scientific Databases"	2
+986	"Algebraic Query Languages on Temporal Databases with Multiple Time Granularities"	1
+237	"High Dimensional Similarity Joins: Algorithms and Performance Evaluation"	1
+1347	"A Performance Study of Declustering Strategies for Parallel Spatial Databases"	1
+290	"Composite-Object Views in Relational DBMS: An Implementation Perspective"	1
+838	"Mining Large Itemsets for Association Rules"	1
+1204	"A Performance Study of Three High Available Data Replication Strategies"	1
+1258	"Mining Data Streams under Block Evolution"	56
+487	"Exploratory Mining via Constrained Frequent Set Queries"	0
+731	"A Structure-Based Approach to Querying Semi-Structured Data"	2
+134	"Performance of Inverted Indices in Distributed Text Document Retrieval Systems"	6
+1031	"A Toolkit for the Incremental Implementation of Heterogeneous Database Management Systems"	2
+437	"Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases"	9
+273	"Buffer Management Based on Return on Consumption in a Multi-Query Environment"	12
+160	"DBMS Research at a Crossroads: The Vienna Update"	16
+908	"A Taxonomy of Correctness Criteria in Database Applications"	1
+1038	"Amalgame: A Tool for Creating Interoperating, Persistent, Heterogeneous Components"	4
+89	"Parallel Algorithms for High-dimensional Similarity Joins for Data Mining Applications"	1
+494	"An Adaptive Object-Oriented Approach to Integration and Access of Heterogeneous Information Sources"	34
+773	"Adaptive Database Buffer Allocation Using Query Feedback"	5
+346	"Database Performance in the Real World - TPC-D and SAP R/3 (Experience Paper)"	2
+568	"Answering Queries Using OQL View Expressions"	18
+292	"Performance Modelling and Comparisons of Global Shared Buffer Management Policies in a Cluster Environment"	2
+277	"Optimization of Parallel Execution for Multi-Join Queries"	1
+1394	"HyperStorM - Administering Structured Documents Using Object-Oriented Database Technology"	1
+760	"The Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data"	11
+1309	"Curio: A Novel Solution for Efficient Storage and Indexing in Data Warehouses"	0
+403	"Continuous Display of Presentations Sharing Clips"	2
+1177	"The Buddy-Tree: An Efficient and Robust Access Method for Spatial Data Base Systems"	26
+1134	"Modern Database Systems: The Object Model, Interoperability, and Beyond"	49
+1011	"A Moose and a Fox Can Aid Scientists with Data Management Problems"	10
+353	"Reordering Query Execution in Tertiary Memory Databases"	8
+957	"Hybrid Index Organizations for Text Databases"	8
+495	"Incorporating Flexible and Expressive Rule Control in a Graph-Based Transaction Framework"	0
+1270	"Scalable Spreadsheets for Interactive Data Analysis"	1
+1235	"Performance Comparisons of Distributed Deadlock Detection Algorithms"	1
+977	"Predator: A Resource for Database Research"	19
+215	"Hybrid-Range Partitioning Strategy: A New Declustering Strategy for Multiprocessor Database Machines"	22
+9	"Efficient Similarity Search In Sequence Databases"	43
+1117	"On the Complexity of Generating Optimal Left-Deep Processing Trees with Cross Products"	4
+665	"Federated Databases and Systems: Part I - A Tutorial on Their Data Sharing"	4
+820	"STORM: A Statistical Object Representation Model"	16
+1206	"A Formal Foundation for Distributed Workflow Execution Based on State Charts"	8
+263	"Two-Level Caching of Composite Object Views of Relational Databases"	2
+962	"Issues in Parallel Information Retrieval"	0
+734	"The Generalized Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data"	3
+1314	"Report on the Workshop on Heterogenous Database Systems held at Northwestern University, Evanston, Illinois, December 11-13, 1989, Sponsored by NSF"	7
+1141	"Unifying Concurrency Control and Recovery of Transactions with Semantically Rich Operations"	5
+182	"Managing Persistent Objects in a Multi-Level Store"	17
+297	"Adaptive, Fine-Grained Sharing in a Client-Server OODBMS: A Callback-Based Approach"	0
+55	"Performance and Scalability of Client-Server Database Architectures"	12
+795	"System Issues in Parallel Sorting for Database Systems"	6
+1211	"Join Index, Materialized View, and Hybrid-Hash Join: A Performance Analysis"	10
+1200	"Using Delta Relations to Optimize Condition Evaluation in Active Databases"	28
+170	"Static Analysis Techniques for Predicting the Behavior of Active Database Rules"	9
+34	"On Periodic Resource scheduling for Continuous-Media Databases"	0
+656	"Extending SQL with Generalized Transitive Closure Functionality"	3
+1349	"The Expressive Power of the Bounded-Iteration Construct"	4
+85	"A Blackboard Architecture for Query Optimization in Object Bases"	8
+133	"Query Processing and Inverted Indices in Shared-Nothing Document Information Retrieval Systems"	2
+792	"Highly Concurrent Cache Consistency for Indices in Client-Server Database Systems"	0
+615	"Beyond Uniformity and Independence: Analysis of R-trees Using the Concept of Fractal Dimension"	25
+554	"On Index Selection Schemes for Nested Object Hierarchies"	2
+633	"Practical Skew Handling in Parallel Joins"	25
+1173	"Multimedia Information Systems: The Unfolding of a Reality (Guest Editors' Introduction)"	14
+476	"Extensibility in the Starburst Experimental Database System"	1
+749	"Deciding Containment for Queries with Complex Objects"	5
+999	"Extending SQL-92 for OODB Access: Design and Implementation Experience"	3
+110	"Heraclitus: Elevating Deltas to be First-Class Citizens in a Database Programming Language"	12
+781	"Declarative Definition of Object-Oriented Multidatabase Mappings"	7
+1149	"Efficient Data Mining for Path Traversal Patterns in Distributed Systems"	2
+268	"GENESYS: A System for Efficient Spatial Query Processing"	0
+741	"The Cascades Framework for Query Optimization"	12
+1212	"The Evolution of Effective B-tree: Page Organization and Techniques: A Personal Account"	9
+429	"A Framework for the Performance Analysis of Concurrent B-tree Algorithms"	7
+1398	"Weak Consistency in Distributed Data Warehouses"	1
+1234	"Deadlock Detection in Distributed Database Systems: A New Algorithm and a Comparative Performance Analysis"	0
+1230	"A new approach to developing and implementing eager database replication protocols"	1
+1119	"The BUCKY Object-Relational Benchmark (Experience Paper)"	6
+1000	"A Comparison of Spatial Query Processing Techniques for Native and Parameter Spaces"	16
+778	"On the Complexity of Equivalence between Recursive and Nonrecursive Datalog Programs"	3
+474	"Fast Approximate Query Answering Using Precomputed Statistics"	3
+49	"Object Fusion in Mediator Systems"	22
+827	"GOM: A Strongly Typed Persistent Object Model With Polymorphism"	7
+1157	"Integrity Maintenance in Object-Oriented Databases"	7
+432	"Fine-Grained Sharing in a Page Server OODBMS"	16
+635	"Processing Time-Constrained Aggregate Queries in CASE-DB"	6
+672	"Analysis of Dynamic Load Balancing Strategies for Parallel Shared Nothing Database Systems"	4
+946	"Mining Temporal Relationships with Multiple Granularities in Time Sequences"	1
+443	"Dynamic Resource Brokering for Multi-User Query Execution"	2
+1393	"On Roth, Korth, and Silberschatz's Extended Algebra and Calculus for Nested Relational Databases"	3
+205	"Managing Memory to Meet Multiclass Workload Response Time Goals"	9
+129	"Efficient User-Adaptable Similarity Search in Large Multimedia Databases"	11
+51	"Production Rules in Parallel and Distributed Database Environments"	7
+863	"Of Objects and Databases: A Decade of Turmoil"	11
+766	"Divergence Control Algorithms for Epsilon Serializability"	0
+1171	"The SB-Tree: An Index-Sequential Structure for High-Performance Sequential Access"	1
+761	"Hamming Filters: A Dynamic Signature File Organization for Parallel Stores"	3
+954	"Design, Implementation, and Performance of the LHAM Log-Structured History Data Access Method"	2
+1056	"Review - Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources"	0
+499	"Sampling Issues in Parallel Database Systems"	5
+1236	"Query Routing in Large-Scale Digital Library Systems"	0
+480	"Performance Evaluation of Semantics-based Multilevel Concurrency Control Protocols"	7
+919	"A Performance Evaluation of Load Balancing Techniques for Join Operations on Multicomputer Database Systems"	2
+619	"Dissemination-Based Information Systems"	2
+960	"SEMCOG: A Hybrid Object-based Image Database System and Its Modeling, Language, and Query Processing"	0
+434	"A Model of Authorization for Next-Generation Database Systems"	20
+549	"Query Interoperation Among Object-Oriented and Relational Databases"	3
+819	"Self-tuning Histograms: Building Histograms Without Looking at Data"	3
+597	"A Status Report on the oo7 OODBMS Benchmarking Effort"	7
+1331	"Indexing for Multiversion Locking: Alternatives and Performance Evaluation"	0
+1340	"Dynamic Maintenance of Data Distribution for Selectivity Estimation"	6
+917	"Update Propagation Strategies to Improve Freshness in Lazy Master Replicated Databases"	1
+1027	"Integrating Heterogenous Overlapping Databases through Object-Oriented Transformations"	2
+991	"The O++ Database Programming Language: Implementation and Experience"	3
+1110	"Interoperability, Distributed Applications and Distributed Databases: The Virtual Table Interface"	2
+192	"A High Performance Configurable Storage Manager"	8
+491	"The Management of Interdependent Asynchronous Transactions in Heterogeneous Database Environments"	3
+173	"Answering Queries with Aggregation Using Views"	27
+575	"Tuning a Parallel Database Algorithm on a Shared-memory Multiprocessor"	7
+692	"Vertical Data Migration in Large Near-Line Document Archives Based on Markov-Chain Predictions"	3
+547	"Role-based Query Processing in Multidatabase Systems"	6
+382	"LH* - Linear Hashing for Distributed Files"	12
+1299	"Performance Analysis of Dynamic Finite Versioning Schemes: Storage Cost vs. Obsolescence"	0
+668	"Non-Serializable Executions in Heterogeneous Distributed Database Systems"	13
+1045	"A Universal-Scheme Approach to Statistical Databases Containing Homogeneous Summary Tables"	11
+590	"WSQ/DSQ: A Practical Approach for Combined Querying of Databases and the Web"	0
+8	"Using a Hash-Based Method with Transaction Trimming for Mining Association Rules"	5
+968	"Pharos: A Scalable Distributed Architecture for Locating Heterogeneous Information Sources"	2
+756	"A Cooperative Transaction Model for Design Databases"	8
+1061	"Voltaire: A Database Programming Language with a Single Execution Model for Evaluating Queries, Constraints amd Functions"	0
+1040	"Divide and Conquer: A Basis for Augmenting a Conventional Query Optimizer with Multiple Query Proceesing Capabilities"	3
+1405	"A Flexible Framework for Transaction Management in Engineering Environments"	5
+1191	"Conflict-driven Load Control for the Avoidance of Data-Contention Thrashing"	7
+877	"A Uniform Approach to Processing Temporal Queries"	9
+207	"The Design and Implementation of a Sequence Database System"	7
+41	"Experiences Building the Open OODB Query Optimizer"	27
+581	"Performance Analysis of Affinity Clustering on Transaction Processing Coupling Architecture"	0
+796	"Review - MOCHA: A Self-Extensible Database Middleware System for Distributed Data Sources"	0
+25	"FLEX: A Tolerant and Cooperative User Interface to Databases"	8
+414	"Top-Down versus Bottom-Up Revisited"	5
+91	"A Distribution-Based Clustering Algorithm for Mining in Large Spatial Databases"	4
+1337	"Query Processing in a Parallel Object-Relational Database System"	4
+360	"Scaling Access to Heterogeneous Data Sources with DISCO"	5
+454	"Pattern Matching by Rs-Operations: Toward a Unified Approach to Querying Sequenced Data"	12
+713	"Extended Commitment Ordering or Guaranteeing Global Serializability by Applying Commitment Order Selectivity to Global Transactions"	2
+244	"The Demarcation Protocol: A Technique for Maintaining Constraints in Distributed Database Systems"	4
+1239	"Efficient compilation of large rule bases using logical access paths"	2
+831	"Processing Incremental Multidimensional Range Queries in a Direct Manipulation Visual Query"	1
+100	"What can Hierarchies do for Data Warehouses?"	3
+1148	"Efficiently Publishing Relational Data as XML Documents"	0
+280	"Data Caching Tradeoffs in Client-Server DBMS Architectures"	38
+583	"Unification of Temporal Data Models"	1
+769	"Distribution and Persistence in the Open Object-Oriented Database System"	2
+1021	"Open Nested Transactions in Federated Database Systems"	1
+1325	"Information Technology Implementation for a Distributed Data System Serving Earth Scientists: Seasonal to Interannual ESIP"	0
+435	"Applying Segmented Right-Deep Trees to Pipelining Multiple Hash Joins"	2
+5	"Continuous Data Block Placement in and Elevation from Tertiary Storage in Hierarchical Storage Servers"	17
+534	"The Performance of Current B-Tree Algorithms"	4
+28	"Random Sampling Techniques for Space Efficient Online Computation of Order Statistics of Large Datasets"	1
+301	"Career-Enhancing Services at SIGMOD Online"	4
+282	"Queries and Query Processing in Object-Oriented Database Systems"	23
+716	"Persistent Applications Using Generalized Redo Recovery"	6
+870	"Including the Load Balancing Issue in the Optimization of Multi-way Join Queries for Shared-Nothing Database Computers"	6
+539	"A Cost-Effective Method for Providing Improved Data Availability During DBMS Restart Recovery After a Failure"	4
+932	"Parallel Query Scheduling and Optimization with Time- and Space-Shared Resources"	3
+1244	"Maintenance of Materialized Views of Sampling Queries"	3
+944	"Semantics for Update Rule Programs and Implementations in a Relational Database Management System"	0
+92	"Multidimensional Data Modeling for Complex Data"	2
+1153	"Modular Acyclicity and Tail Recursion in Logic Programs"	7
+1163	"Are We Working On the Right Problems? (Panel)"	1
+981	"Solving Domain Mismatch and Schema Mismatch Problems with an Object-Oriented Database Programming Language"	9
+337	"Sequoia 2000: A Next-Generation Information System for the Study of Global Change"	1
+377	"Cost Models DO Matter: Providing Cost Information for Diverse Data Sources in a Federated System"	2
+343	"Precision and Recall of GlOSS Estimators for Database Discovery"	3
+1292	"Throughput-Competitive Admission Control for Continuous Media Databases"	0
+816	"Semantics of Time-Varying Attributes and their Use for Temporal Database Design"	1
+910	"An Extensible Notation for Spatiotemporal Index Queries"	34
+1170	"Future Directions in Database Research (Panel)"	1
+54	"Techniques for Update Handling in the Enhanced Client-Server DBMS"	0
+1221	"Comparison of Access Methods for Time-Evolving Data"	9
+389	"ARIES/CSA: A Method for Database Recovery in Client-Server Architectures"	13
+765	"The Principle of Commitment Ordering, or Guaranteeing Serializability in a Heterogeneous Environment of Multiple Autonomous Resource Mangers Using Atomic Commitment"	10
+1095	"OBSERVER: An Approach for Query Processing in Global Information Systems based on Interoperation across Pre-existing Ontologies"	5
+774	"Modeling Scientific Experiments with an Object Data Model"	1
+888	"Middleware: A Model for Distributed System Services"	2
+210	"Efficient Locking and Caching of Data in the Multisystem Shard Disks Transaction Environment"	12
+468	"The hB-Pi-Tree: A Multi-Attribute Index Supporting Concurrency, Recovery and Node Consolidation"	2
+1224	"Review - Efficient Processing of Spatial Joins Using R-Trees"	0
+523	"Sort-Merge-Join: An Idea Whose Time Has(h) Passed?"	11
+171	"Main Memory Database Systems: An Overview"	13
+527	"Promises and Realities of Active Database Systems"	6
+509	"Query Processing Algorithms for Temporal Intersection Joins"	10
+521	"A General Framework for Time Granularity and Its Application to Temporal Reasoning"	4
+1401	"Research Issues in Databases for ARCS: Active Rapidly Changing Data Systems"	16
+203	"Coarse Indices for a Tape-Based Data Warehouse"	3
+386	"The LRU-K Page Replacement Algorithm For Database Disk Buffering"	24
+196	"Broadcast Disks: Data Management for Asymmetric Communications Environments"	22
+1302	"Implementation and Performance of Multi-level Transaction Management in a Multidatabase Environment"	3
+859	"Rethinking Database System Architecture: Towards a Self-Tuning RISC-Style Database System"	0
+336	"Data Base Recovery in Shared Disks and Client-Server Architectures"	4
+197	"Query Rewriting for Semistructured Data"	6
+1273	"Temporal Rule Specification and Management in Object-oriented Knowledge Bases"	19
+1247	"The Next Ten Years of Modeling, Methodologies, and Tools"	0
+892	"Local Verification of Global Integrity Constraints in Distributed Databases"	12
+600	"Processing and Optimization of Multiway Spatial Joins Using R-Trees"	4
+438	"On the Complexity of Generating Optimal Plans with Cross Products"	1
+885	"Plan-Per-Tuple Optimization Solution - Parallel Execution of Expensive User-Defined Functions"	1
+246	"Flexible Data Cubes for Online Aggregation"	0
+907	"Using Shared Virtual Memory for Parallel Join Processing"	8
+319	"Function Materialization in Object Bases: Design, Realization, and Evaluation"	7
+411	"A Pipeline N-way Join Algorithm Based on the 2-way Semijoin Program"	9
+1146	"OLAP Query Routing and Physical Design in a Database Cluster"	0
+663	"Performance and Availability Assessment for the Configuration of Distributed Workflow Management Systems"	2
+1298	"Compressed Data Cubes for OLAP Aggregate Query Approximation on Continuous Dimensions"	2
+342	"Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies"	13
+439	"Review - An Overview of Data Warehousing and OLAP Technology"	0
+718	"Efficient Execution of Read-Only Transactions in Replicated Multiversion Databases"	1
+1219	"Query Processing Techniques for Multimedia Presentation Graphs"	1
+964	"SQL Query Optimization: Reordering for a General Class of Queries"	0
+1010	"Efficiently Instantiating View-Objects From Remote Relational Databases"	2
+1284	"Managing Complex Objects in the Darmstadt Database Kernel System"	3
+924	"Consistency and Orderability: Semantics-Based Correctness Criteria for Databases"	6
+677	"Triggered Real-Time Databases with Consistency Constraints"	7
+666	"The Federated Databases and System: A New Generation of Advanced Database Systems"	1
+984	"A Note on the Strategy Space of Multiway Join Query Optimization Problem in Parallel Systems"	11
+943	"Towards Guaranteed Quality and Dependability of Information Services"	1
+62	"The Volcano Optimizer Generator: Extensibility and Efficient Search"	41
+801	"Temporal Conditions and Integrity Constraints in Active Database Systems"	2
+1081	"Delta-Sets for Optimized Reactive Adaptive Playout Management in Distributed Multimedia Database Systems"	2
+659	"Review - An Array-Based Algorithm for Simultaneous Multidimensional Aggregates"	0
+1210	"Efficient Disk Allocation for Fast Similarity Searching"	2
+909	"Support Consistent Updates in Replicated Multidatabase Systems"	0
+218	"The STRIP Rule System For Efficiently Maintaining Derived Data"	1
+488	"Scalable Invalidation-Based Processing of Queries in Broadcast Push Delivery"	0
+1076	"Physical Schemas for Large Multidimensional Arrays in Scientific Computing Applications"	3
+190	"Segment Indexes: Dynamic Indexing Techniques for Multi-Dimensional Interval Data"	16
+420	"Advanced Transaction Models in Workflow Contexts"	10
+498	"Incremental Recomputation of Active Relational Expressions"	32
+1400	"Design, Implementation and Performance Comparison of the Buddy-Tree"	1
+1229	"Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication"	0
+776	"Navigation-Driven Evaluation of Virtual Mediated Views"	1
+1172	"Safe Referential Structures in Relational Databases"	3
+22	"Mining Sequential Patterns: Generalizations and Performance Improvements"	8
+805	"Performance Analysis of a Concurrent File Reorganization Algorithm for Record Clustering"	5
+861	"Reducing Recovery Constraints on Locking based Protocols"	1
+696	"Type Inference for Queries on Semistructured Data"	4
+758	"Extraction and Applications of Statistical Relationships in Relational Databases"	2
+857	"An Overview of the Lawrence Berkeley Laboratory Extended Entity-Relationship Database Tools"	1
+357	"Continual Queries for Internet Scale Event-Driven Information Delivery"	2
+464	"Concepts and Applications of Multilevel Transactions and Open Nested Transactions"	19
+94	"Secure Transaction Processing in Firm Real-Time Database Systems"	2
+695	"Using Semantic Values to Falilitate Interoperability Among Heterogeneous Information Systems"	11
+1159	"Semantics of Time-Varying Information"	8
+492	"Ripple Joins for Online Aggregation"	7
+1365	"Generating Consistent Test Data for a Variable Set of General Consistency Constraints"	2
+159	"Mining for Strong Negative Associations in a Large Database of Customer Transactions"	1
+588	"Recovering from Main-Memory Lapses"	1
+323	"Retrieval of Composite Multimedia Objects"	2
+618	"Strategic Directions in Database Systems - Breaking Out of the Box"	4
+1178	"A Graph Query Language and Its Query Processing"	0
+77	"Ratio Rules: A New Paradigm for Fast, Quantifiable Data Mining"	2
+1285	"WISE: A World Wide Web Resource Database System"	0
+1277	"Automated Selection of Materialized Views and Indexes in SQL Databases"	1
+979	"The Performance of Protocols Based on Locks with Ordered Sharing"	4
+93	"Summarizability in OLAP and Statistical Data Bases"	10
+68	"A Transparent Schema-Evolution System Based on Object-Oriented View Technology"	7
+577	"Speculative Data Dissemination and Service to Reduce Server Load, Network Traffic and Service Time in Distributed Information Systems"	4
+1068	"On Global Multidatabase Query Optimization"	16
+797	"Optimal Multi-Block Read Schedule for Partitioned Signature Files"	0
+330	"Dali: A High Performance Main Memory Storage Manager"	14
+1296	"MegaLog - A platform for developing Knowledge Base Management Systems"	2
+612	"Dealing with Granularity of Time in Temporal Databases"	11
+1017	"Adaptive Selectivity Estimation Using Query Feedback"	18
+545	"Empirical Performance Evaluation of Concurrency and Coherency Control Protocols for Database Sharing Systems"	8
+30	"Set-Oriented Mining for Association Rules in Relational Databases"	16
+1312	"High-level Parallelism in a Database Cluster: A Feasibility Study Using Document Services"	1
+610	"Diagnosing Anomalous Rule Behavior in Databases with Integrity Maintenance Production Rules"	7
+825	"An Algebraic Framework for Physical OODB Design"	5
+39	"Advanced Query Processing in Object Bases Using Access Support Relations"	29
+690	"Distributed File Organization with Scalable Cost/Performance"	8
+174	"Including Group-By in Query Optimization"	36
+914	"CQL++: A SQL for the Ode Object-Oriented DBMS"	5
+1307	"Recovery Analysis of Data Sharing Systems under Deferred Dirty Page Propagation Policies"	1
+607	"Global Memory Management in Client-Server Database Architectures"	16
+309	"Dimensionality Reduction for Similarity Searching in Dynamic Databases"	6
+490	"Active Database Management of Global Data Integrity Constraints in Heterogeneous Database Environments"	1
+566	"LLO: An Object-Oriented Deductive Language with Methods and Method Inheritance"	8
+481	"Fast Searching by Content in Multimedia Databases"	1
+963	"Reactive Consistency Control In Deductive Databases"	17
+378	"Ordering and Selecting Production Rules for Constraint Maintenance: Complexity and Heuristic Solution"	3
+529	"The Background of the DASDBS  COSMOS Projects"	0
+1007	"PicoDMBS: Scaling Down Database Techniques for the Smartcard"	0
+501	"Bucket Spreading Parallel Hash: A New, Robust, Parallel Hash Join Method for Data Skew in the Super Database Computer (SDC)"	24
+937	"An Indexing Technique for Object-Oriented Databases"	13
+1127	"Erweiterbarkeit, Kooperation, Foderation von Datenbanksystemen"	2
+630	"2PC Agent Method: Achieving Serializability in Presence of Failures in a Heterogeneous Multidatabase"	12
+1377	"Locality Preserving Dictionaries: Theory and Application to Clustering in Databases"	0
+651	"Storing and Querying XML Data using an RDMBS"	4
+698	"Accurate Modeling of the Hybrid Hash Join Algorithm"	5
+137	"Managing Semantic Heterogeneity with Production Rules and Persistent Queues"	19
+862	"Simple Rational Guidance for Chopping Up Transactions"	5
+785	"Using Differential Techniques to Efficiently Support Transaction Time"	9
+596	"An Approach to Resolving Semantic Heterogenity in a Federation of Autonomous, Heterogeneous Database Systems"	12
+1167	"A Classification Algorithm for Supporting Object-Oriented Views"	4
+1078	"Query Processing for Moving Objects with Space-Time Grid Storage Model"	19
+188	"ROCK: A Robust Clustering Algorithm for Categorical Attributes"	2
+947	"Replicated Databases: concepts, Architectures and Techniques"	1
+1012	"Reliable Transaction Execution in Multidatabase Systems"	2
+961	"Chabot: Retrieval from a Relational Database of Images"	160
+1409	"Solving Local Cost Estimation Problem for Global Query Optimization in Multidatabase Systems"	1
+893	"Generalizing Conjunctive Query Containment for View Maintenance and Integrity Constraint Verification (Abstract)"	2
+625	"Using Heterogeneous Equivalences for Query Rewriting in Multidatabase Systems"	6
+507	"Parallel Query Processing Strategies for Object-oriented Temporal Databases"	1
+1024	"Issues in Operation Flow Management for Long-Running Acivities"	1
+560	"Information Source Tracking Method: Efficiency Issues"	2
+661	"Transactional Workflow Management in Distributed Systems (Invited Paper)"	0
+721	"The MultiView OODB View System: Design and Implementation"	4
+839	"Merging Ranks from Heterogeneous Internet Sources"	6
+876	"On the Relative Cost of Sampling for Join Selectivity Estimation"	6
+88	"Volcano - An Extensible and Parallel Query Evaluation System"	31
+935	"Predictive Load Control for Flexible Buffer Allocation"	18
+591	"Chronological Scheduling of Transactions with Temporal Dependencies"	2
+853	"Stream Processing: Temporal Query Processing and Optimization"	5
+126	"Small Materialized Aggregates: A Light Weight Index Structure for Data Warehousing"	1
+460	"Proclamation-Based Model for Cooperating Transactions"	1
+622	"Fast High-Dimensional Data Search in Incomplete Databases"	1
+949	"The Use of Information Capacity in Schema Integration and Translation"	18
+1096	"Flexible Relation: An Approach for Integrating Data from Multiple, Possibly Inconsistent Databases"	4
+33	"A Performance Comparison of the Rete and TREAT Algorithms for Testing Database Rule Conditions"	8
+477	"Efficient Global Transaction Management in Multidatabase Systems"	0
+332	"Histogram-Based Approximation of Set-Valued Query-Answers"	5
+20	"Spatial Indexing: Past and Future"	2
+767	"Management of Interdependent Data: Specifying Dependency and Consistency Requirements"	17
+1301	"Data Warehouse Maintenance under Concurrent Schema and Data Updates"	2
+12	"Spatial and Temporal Content-Based Access to Hypervideo Databases"	0
+459	"A Transactional Nested Process Management System"	5
+584	"Temporal Databases - Status and Research Directions"	56
+1217	"On Extending the XML Engine with Query-Processing Capabilities"	1
+138	"Incremental Maintenance of Materialized Object-Oriented Views in MultiView: Strategies and Performance Evaluation"	1
+647	"On the Propagation of Errors in the Size of Join Results"	28
+1169	"Phoenix: Making Applications Robust"	0
+1080	"Multidatabase Query Optimization: Issues and Solutions"	7
+1334	"Efficient Management of Materialized Generalized Transitive Closure in Centralized and Parallel Environments"	3
+502	"Access Support Relations: An Indexing Method for Object Bases"	9
+835	"Implementation and Analysis of a Parallel Collection Query Language"	0
+1142	"Modeling Physical Systems by Complex Structural Objects and Complex Functional Objects"	3
+782	"A Scientific Multimedia Database System for Polymer Science Experiments"	0
+189	"Query Processing Techniques for Multiversion Access Methods"	0
+1164	"Slim-Trees: High Performance Metric Trees Minimizing Overlap Between Nodes"	0
+144	"OPT++: An Object-Oriented Implementation for Extensible Database Query Optimization"	1
+563	"An Overview of the Object-Protocol Model (OPM) and OPM Data Management Tools"	10

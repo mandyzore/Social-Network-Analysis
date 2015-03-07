@@ -1,0 +1,109 @@
+43	"Computing with Features as Formulae"	25
+0	"The Interaction of Knowledge Sources in Word Sense Disambiguation"	45
+92	"TINA: A Natural Language System for Spoken Language Applications"	69
+20	"Functional Centering - Grounding Referential Coherence in Information Structure"	55
+97	"Topical Clustering of MRD Senses Based on Information Retrieval Techniques"	29
+98	"Learning Dependency Translation Models as Collections of Finite State Head Transducers"	42
+69	"Obtaining Trees from their Descriptions: An Application to Tree-Adjoining Grammars"	19
+65	"Towards the Use of Automated Reasoning in Discourse Disambiguation"	18
+23	"Empirical Studies on the Disambiguation of Cue Phrases"	73
+38	"Stochastic Inversion Transduction Grammars and Bilingual Parsing of Parallel Corpora"	80
+67	"Using Hidden Markov Modeling to Decompose Human-Written Summaries"	9
+18	"Automatic Verb Classification Based on Statistical Distributions of Argument Structure"	28
+24	"Speech Repairs, Intonational Phrases and Discourse Markers: Modeling Speakers' Utterances in Spoken Dialog"	23
+50	"An Efficient Probabilistic Context-Free Parsing Algorithm that Computes Prefix Probabilities"	75
+35	"Dependency Parsing with an Extended Finite-State Approach"	22
+80	"The Problem of Logical-Form Equivalence"	11
+70	"Multi-Tiered Nonlinear Morphology Using Multi-Tape Finite Automata: A Case Study on Syriac and Arabic"	35
+32	"Optimality Theory and the Generative Complexity of Constraint Violability"	23
+27	"Storing Logical Form in a Shared-Packed Forest"	12
+61	"Enhancing Preference-Based Anaphora Resolution with Genetic Algorithms"	4
+31	"Combining Low-Level and Summary Representations of Opinions for Multi-Perspective Question Answering"	13
+40	"Computation of the Probability of Initial Substring Generation by Stochastic Context-Free Grammars"	37
+59	"Introduction to Special Issue on Machine Learning Approaches to Shallow Parsing"	13
+5	"Translating Collocations for Bilingual Lexicons: A Statistical Approach"	78
+101	"Feature Structures and Nonmonotonicity"	23
+99	"Race-Based Parsing and Syntactic Disambiguation"	4
+48	"Guest Editors' Introduction: Machine Learning and Natural Language"	7
+105	"Algorithm for Naming Molecular Equivalence Classes Represented by Labeled Pseudographs"	5
+73	"Models of Translational Equivalence among Words"	43
+56	"Wide-Range Restructuring of Intermediate Representations in Machine Translation"	5
+58	"Shallow Parsing using Noisy and Non-Stationary Training Material"	21
+85	"A Generative Perspective on Verb Alternations"	23
+47	"Bootstrapping Morphological Analyzers by Combining Human Elicitation and Machine Learning"	14
+53	"An Efficient Algorithm for Matching Multiple Patterns"	2
+51	"Statistical Techniques for Natural Language Parsing"	50
+62	"Introduction to the Special Issue on Computational Anaphora Resolution"	21
+94	"Phonological Analysis in Typed Feature Systems"	44
+86	"Weighted Deductive Parsing and Knuth's Algorithm"	16
+34	"Practical Experiments with Regular Approximation of Context-free Languages"	20
+17	"From Grammar to Lexicon: Unsupervised Learning of Lexical Syntax"	34
+64	"Using Corpus Statistics and WordNet Relations for Sense Identification"	39
+22	"The Rhetorical Parsing of Unrestricted Texts: A Surface-Based Approach"	37
+10	"The Computational Complexity of the Correct-Prefix Property for TAGs"	24
+57	"A Computational Theory of Goal-Directed Style in Syntax"	7
+33	"Regular Models of Phonological Rule Systems"	133
+9	"Tree-Adjoining Grammar Parsing and Boolean Matrix Multiplication"	7
+45	"Robust Learning, Smoothing, and Parameter Tying on Syntactic Ambiguity Resolution"	16
+41	"A Probabilistic Model of Lexical and Syntactic Access and Disambiguation"	111
+46	"Introduction to the Special Issue on Computational Linguistics Using Large Corpora"	84
+7	"A Process Model for Recognizing Communicative Acts and Modeling Negotiation Subdialogues"	33
+42	"Inheritance and Constraint-Based Grammar Formalisms"	22
+49	"Automating Knowledge Acquisition for Machine Translation"	24
+13	"Discourse Segmentation by Human and Automated Means"	55
+84	"Parsing Some Constrained Grammar Formalisms"	31
+90	"Using Descriptions of Trees in a Tree Adjoining Grammar"	57
+2	"Lexical Cohesion Computed by Thesaural Relations as an Indicator of the Structure of Text"	104
+12	"Decoding Complexity in Word-Replacement Translation Models"	35
+78	"Ambiguity-preserving Generation with LFG- and PATR-style Grammars"	2
+106	"Using Molecular Equivalence Numbers To Visually Explore Structural Features that Distinguish Chemical Libraries"	4
+11	"Word Reordering and a Dynamic Programming Beam Search Algorithm for Statistical Machine Translation"	22
+39	"Generalized Probabilistic LR Parsing of Natural Language (Corpora) with Unification-Based Grammars"	107
+77	"The Repair of Speech Act Misunderstandings by Abductive Inference"	62
+3	"Efficiently Computed Lexical Chains as an Intermediate Representation for Automatic Text Summarization"	14
+19	"Verb Class Disambiguation Using Informative Priors"	23
+75	"The Uncommon Denominator: A Proposal for Consistent Reporting of Pronoun Resolution Results"	7
+55	"Training and Scaling Preference Functions for Disambiguation"	33
+91	"Ambiguous Noun Phrases in Logical Form"	7
+68	"A First-Order Axiomatization of the Theory of Finite Trees"	26
+21	"An Algorithm for Anaphora Resolution in Spanish Texts"	17
+44	"An Empirically-based System for Processing Definite Descriptions"	43
+37	"The Generative Lexicon"	99
+66	"Introduction to the Special Issue on Summarization"	41
+83	"Tree Insertion Grammar: Cubic-Time, Parsable Formalism that Lexicalizes Context-Free Grammar without Changing the Trees Produced"	32
+87	"A Chart Re-estimation Algorithm for a Probabilistic Recursive Transition Network"	3
+95	"Languages Generated by Two-Level Morphological Rules"	8
+16	"Generation and evaluation of user tailored responses in multimodal dialogue"	42
+54	"A Systematic Comparison of Various Statistical Alignment Models"	81
+96	"Head-Driven Statistical Models for Natural Language Parsing"	46
+28	"Inheritance and Complementation: A Case Study of Easy Adjectives and Related Nouns"	11
+93	"Bidirectional Contextual Resolution"	8
+71	"Lexical Semantic Techniques for Corpus Analysis"	62
+72	"Tracking Point of View in Narrative"	26
+74	"met*: A Method for Discriminating Matonymy and Metaphor by Computer"	27
+14	"Automatic Summarization of Open-Domain Multiparty Dialogues in Diverse Genres"	31
+26	"Resolving Quasi Logical Forms"	31
+60	"Introduction to the Special Issue on the Web as Corpus"	42
+82	"An Interpretation of Negation in Feature Structure Descriptions"	11
+103	"Generating Natural Language Summaries from Multiple On-Line Sources"	105
+6	"Automatic Classification and Intelligent Clustering for WWWeb Information Retrieval Systems"	11
+4	"Word Association Norms, Mutual Information, and Lexicography"	97
+79	"Semantic-driven Generation with LFG- and PATR-style Grammars"	4
+63	"Expressing Rhetorical Relations in Instructional Text: A Case Study of the Purposes Relation"	9
+1	"A Mathematical Model for Context and Word-Meaning"	16
+108	"Learning Methods to Combine Linguistic Indicators: Improving Aspectual Classification and Revealing Linguistic Insights"	27
+104	"Syllable-Pattern-Based Unknown-Morpheme Segmentation and Estimation for Hybrid Part-of-Speech Tagging of Korean"	12
+81	"Issues in the Choice of a Source for Natural Language Generation"	6
+107	"The Design of Efficient Algorithms for Two-Dimensional Pattern Matching"	0
+30	"Empirical Methods in Information Extraction"	77
+100	"Coping with Ambiguity and Unknown Words through Probabilistic Models"	87
+8	"Introduction to the Special Issue on Word Sense Disambiguation: The State of the Art"	158
+52	"Corrections to 'An Efficient Algorithm for Matching Multiple Patterns"	0
+88	"Limited Attention and Discourse Structure"	29
+89	"D-Tree Substitution Grammars"	12
+25	"RAFT/RAPR and Centering: A Comparison and Discussion of Problems Related to Processing Complex Sentences"	18
+76	"Effects of Variable Initiative on Linguistic Behavior in Human-Computer Spoken Natural Language Dialogue"	27
+36	"A Probabilistic Account of Logical Metonymy"	30
+102	"Introduction to the Special Issue on Finite State Methods in NLP"	5
+29	"Default Representation in Constraint-based Frameworks"	17
+15	"Planning Text for Advisory Dialogues: Capturing Intentional and Rhetorical Information"	137
